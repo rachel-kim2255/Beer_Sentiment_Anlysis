@@ -5,9 +5,9 @@
 📅 Date: 2025.03  
 📚 Individual Project
 <br>
+
 📝 This project performs sentiment analysis on beer reviews collected from Reddit using two sentiment analysis libraries: 
 **VADER** and **TextBlob**. The reviews are filtered based on two popular beer types: **IPA 🍺** and **Lager 🍺**. The goal of this project is to assess the sentiment of beer reviews and provide insights into how users feel about different beer types.
-
 <br>
 <br>
 
@@ -17,8 +17,6 @@
 - **beer_reviews_with_sentiment.csv**: The result dataset after sentiment analysis, which includes VADER and TextBlob sentiment labels and scores.
   (columns: Subreddit, Keyword, Title, Text, Score, VADER_Score, VADER_Sentiment_Label, TextBlob_Score, TextBlob_Sentiment_Label,	Importance_Score)
 - **IPA vs Lager Analyzing Reddit Discussions.ipynb**: Jupyter notebook containing the entire analysis process
-
-<br>
 <br>
 
 ## 📂 Libraries Used
