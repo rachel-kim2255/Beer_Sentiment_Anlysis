@@ -1,0 +1,798 @@
+Subreddit,Keyword,Title,Text,Score,VADER_Score,VADER_Sentiment_Label,TextBlob_Score,TextBlob_Sentiment_Label,Importance_Score,Importance_Direction
+beer,IPA,"If your IPA does not have the date printed on it, I’m not buying it. ","I’m tired of seeing no dates on cans, nothing makes me put it down faster than flipping it over and seeing no dates. 
+
+If you work at a brewery that does this… fix it. ",717,-0.743,Negative,-0.2777777777777778,Negative,-0.8763377222222223,Negative
+beer,IPA,Non-IPA drinkers - are there any IPAs that you enjoy?,"Hey everyone. I turned 21 in November, and my beer experience is pretty limited, even more so for IPAs (I literally sampled one once at a brewery on my birthday). The one time I tried an IPA, I didn’t really enjoy it, but I’m willing to give IPAs a second chance. For those of you who don’t usually like IPAs, are there any that you did like, or even drink regularly? If it helps, I live in south Florida, and generally stick to light beers, but I’d like to expand my palate. Thanks. ",54,0.976,Positive,0.15541125541125542,Positive,0.5962537316017317,Positive
+beer,IPA,"""IPA has gone too far."", says former Stone brewmaster Mitch Steele",,1704,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,Potentially unpopular opinion: a “variety pack” that just contains four different IPAs is not a variety pack at all,I have spoken ,589,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,Who here remembers Ranger IPA before it became voodoo Ranger?,To me voodoo ranger sucks ( especially the juice crap) compared to what I remember about Ranger IPA. That’s what actually turned me on to IPA’s was sitting in Saltgrass steak house 15 years ago drinking 2 dollar any can/bottle/draft and 1/2 price appetizers. Those were the days…….,238,-0.6557,Negative,-0.275,Negative,-0.5761033,Negative
+beer,IPA,Tired of IPA’s,"Early on in my craft beer drinking “journey” I became completely consumed with trying all different types of beers. I bought variety packs, went to breweries and got flights, bought all kinds of beers from stores and gas stations and I enjoyed them a lot. I’d say there’s probably no type of beer that I really disliked but that has since changed. I now find myself being very particular about the beers I do drink and additionally, opting for lagers more often (even light lagers). Whereas before, I spoke extremely negatively about all light beers. I kind of miss enjoying a variety of different beers but have just not been enjoying them as much.
+Has anyone else experienced this? ",173,-0.2144,Negative,0.2697916666666667,Positive,0.03248721250000002,Positive
+beer,IPA,"The Brewers Association has officially categorized ""Juicy or Hazy IPA"", which means NE-IPAs will have their own medals at GABF in 2018",,1399,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,I am so sick of IPAS dominating every tap selection,"No matter where you go, almost every restaurant has a tap selection whose entire “craft” beer offering is half a dozen IPAs and a milk stout.  VERY rarely do you see light, crisp easy drinkers or golden/amber ales other than chains like Fat Tire and Yuengling.  Even local breweries and gastropubs the selection is slim. There is no way this many people genuinely enjoy IPAs.",652,0.7921,Positive,0.20816666666666667,Positive,0.8262202666666667,Positive
+beer,IPA,Cult IPA Pliny the Younger just quietly hit the San Francisco Bay Area,,183,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,The Most Popular IPA in the Country For Retail Sales Is Voodoo Ranger. So Is the Second.,,336,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,"In your opinion, which of the following ""macro breweries"" has the best IPAs: Lagunitas, New Belgium or Sierra Nevada?","If you have a favorite that's not in my post, let me know!",50,0.5093,Positive,0.625,Positive,0.5955075000000001,Positive
+beer,IPA,Does everybody eventually develop an intolerance to IPAs?,"I'd like to hear your experiences with this. I too went through an IPA phase where I drank them for years. Then one day it was just like ""This beer is disgusting.""
+
+Everybody I know who has drank IPAs had the same thing happen, eventually had to stop because they started making them sick. I'm talking horrific hangovers from 1 or 2 beers. I can't even bear to smell them anymore.
+
+The hangover is totally different, with other beers it's just kind of there. But the IPA hangover is so obnoxious and in your face, it's unreal. You know what I'm talking about.",238,-0.8873,Negative,-0.3198979591836735,Negative,-0.7472555367346939,Negative
+beer,IPA,PSA: IPAS ARE POPULAR. WE KNOW.,"For Part 3 or my [PSA series](https://www.reddit.com/r/beer/comments/bgtz5d/psa_if_you_dont_like_a_particular_style_of_beer/), I'd like to address a common concern expressed on this sub - the popularity of IPAs.
+
+Ok, listen. We are all very aware the IPAs are popular. We are aware that when you go to a bar, brewery or bottleshop, the vast majority of the offerings are IPAs - because IPAs are popular. We understand that this can be difficult for people that don’t like IPAs - but IPAs are popular. We’re all very sorry that your favorite style of beer isn’t as popular as IPAs.
+
+No, we don’t know when the IPA “trend” is going to die - it’s been going strong for like 15 years and shows no sign of abating so probably not anytime soon. You might want to reconcile yourself to the fact that IPAs will likely remain popular for many years to come. No, I sincerely doubt that every bar in America will begin stocking a good English Mild any time soon.  No, everyone’s not “just going to go back to drinking German styles” in the near future. No, cask ales probably won’t ever be as popular in the US as they are in England. Sorry. 
+
+Supply and demand is immutable. Breweries will continue to supply IPAs as long as there is a demand because that’s how they make money. Welcome to the economy.",838,0.9839,Positive,0.20684523809523808,Positive,1.094294873809524,Positive
+beer,IPA,IPAs: Im over it,"With much respect to those who like their IPAs and overly hoppy brew, I'm over it. Its hard to find a nice crisp lager or moderately flavoured ale at my local beer store these days with 85% + of the shelves occupied with ""PUNCH IN THE MOUTH HOPS FLAVOR"" brews. 
+  
+(dont hate me because Im pretty)",525,0.9216,Positive,0.026041666666666657,Neutral,0.7225767708333333,Positive
+beer,IPA,Breweries: please label your hazy IPAs,"I love west coast IPAs and don't like hazy IPAs. I have bought so many beers labeled IPA or Double IPA, only to get home, pour it, and discover that it's a hazy.",226,0.4749,Positive,0.25,Positive,0.4443637,Positive
+beer,IPA,Where the hell did Black IPA go?,"Wookey Jack (which I know can be found again) is one of the beers that really got me into craft beer in \~2015. It seems like in those years the style had a bit of a moment, and could be found at a good portion of breweries, at least out west. It's a perfect mash between the two opposing things I love most in beer in dark roasts malts and fresh kickass hops, but it seems to have essentially died off over the years. What do you think happened? Why did people stop buying them? I hope to see a real resurgence as the haze-craze continues to get beat into the ground. ",235,0.5873,Positive,0.295,Positive,0.54482025,Positive
+beer,IPA,"15 brewers asked how the IPA could be dethroned, collective answer is basically 'not going to happen'",,721,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,Blind-tasting and ranking 324 American IPAs,,601,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,We need more variety than just 50 different IPA’s at the supermarket,"Anyone else get frustrated trying to purchase a beer and it’s literally 50 different IPA types. Everything is a hop bomb.
+
+I’m trying to “get into” Pilsner’s and there are very few in California markets. I guess I just need to go to a BevMo or something?
+
+I am actually surprised at how popular IPA’s are that they can’t just offer a few alternatives like some decent lagers.
+
+I remember back in the day Sierra Nevada actually made a decent lager and now none of the major “craft” breweries make anything outside of IPA and Hazy IPA.
+
+Is the public really this set on IPA’s? Or is this beer being pushed on us? Do they want us drinking hops?
+
+Lastly, if I want a lager then it defaults to the macro brews which is not what I had in mind…. 
+
+Can someone help me get this new trend of Pilsners to take effect sooner.",381,0.594,Positive,0.017012310606060607,Neutral,0.4219040004734848,Positive
+beer,IPA,What would you all recommend as the best IPA?,"A couple weeks ago I posted on here asking for beer suggestions (I turned 21 this month), I had a lot of people recommend me IPAs, so I tried out Founder's All Day IPA, and I think it's great. I got the variety pack too, so I've tried the Hazy and Black variations as well, they're great as well. So I know for sure that I really enjoy the bitter type of flavor IPAs tend to have. What other ones would you guys recommend I try?
+I am from Michigan by the way if that helps ",3,0.9671,Positive,0.3011904761904762,Positive,0.6360476738095237,Positive
+beer,IPA,Lagunitas IPA has replaced nearly 30 Goose Island draft handles throughout Wrigley Field.,,871,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,"Keep your ""juice"" out of my damn pilsner: The encroachment of IPA on other beer styles",,678,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,"I'm Jeremy Marshall, Lagunitas Brewing Company's BrewMonster and I’m here to celebrate IPA Day with you and talk all things beer. Let’s do this, Reddit – ask me anything!","Lagunitas likes to celebrate IPA Day every day. The Internet, however, chose to celebrate it on Aug 5th. So, we asked you to help create an über-mega-special Double IPA called UPDOOT DIPA for the beeriest, made-up holiday of them all (huge shout-out to all you Redditors who threw your ideas in the hat to name it). The brew is stoopid dank ＆ resinous and has all of my favorite qualities in IPAs, like dankness and resinousness and hints of pleasant allium notes and citrus with some sketchy taxi and passing festival wook vibes.
+ 
+I’m Northern Californian by way of Memphis (where my junt peeps?) and Davis through their brewing school where I graduated Sumpin Comma Wow. Speaking of, A Little Sumpin’ Sumpin’ was the recipe that got me the job way back in 2008. Since then, I’ve recipe’d hundreds of beers that range from vile to drinkable at best!
+ 
+I'm an avid fan of indoor hiking and rafting, insect rehabilitation, dog grooming without utilities (true story), live kazoo orchestras, a good old-fashioned German sparkle party, and, you know, whatever...
+ 
+Any other questions? Ask me anything.
+
+
+Proof: https://i.redd.it/3jzb8fmm5ef71.jpg
+
+Edit: Thanks for an awesome AMA, Reddit! Jeremy Marshall, signing off. Cheers! Enjoy the rest of IPA Day and catch up on my AMA here!",445,0.9956,Positive,0.3268939393939394,Positive,0.9555018712121213,Positive
+beer,IPA,"Hazy IPAs Aren't Over, They've Just Found Equilibrium",,237,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,PSA: Don't drink Milkshake IPAs if you're lactose intolerant,I'm having a bad day,651,-0.5423,Negative,-0.6999999999999998,Negative,-1.0255186499999998,Negative
+beer,IPA,Sam Adams' New Double IPA Is Making Alcohol Distributors Nervous,,624,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,Gateway IPA,"I don't like IPAs...I just don't. But I keep hearing people say that once you get used to them, you'll love them. And there are so many choices at most bars and pubs. So ok...what's my path? What's my gateway IPA that's going to start me liking them and let me take the next step without thinking I'm drinking pine needle juice?",10,0.8794,Positive,0.375,Positive,0.633472,Positive
+beer,IPA,HAPPY IPA DAY!,I've got a couple Heady Toppers and Gandhi Bots waiting for me after work. What are you celebrating with today!?,628,0.6114,Positive,0.0,Neutral,0.49767960000000006,Positive
+beer,IPA,Iconic Craft Breweries Are Completely Surrendering to IPA Dominance,,276,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,Dogfish Head Figured Out How to Brew a Low-Cal IPA That Doesn't Taste Like Seltzer Water,,735,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,Why are Hazy IPA’s so inanely popular with beer connoisseurs?,"New to this community, maybe this topic is way over discussed so sorry if its redundant, but I am genuinely REALLY curious why all the “beer elitists” have leaned so strongly towards Hazy’s. 
+
+If you go on untapped these days, the highest rated brews are always Hazy/ New England, and from my perspective, it seems the more it tastes like boozy orange juice and the less it tastes like a traditional IPA, the higher it gets rated.
+
+I don’t even dislike these brews, I just find it odd that a community known for having a “refind pallet” is leaning in the direction of the sweeter/ fruitier style brews as opposed to brews that have complex flavor.
+
+Is it possible that these ratings are getting pumped up by college bros and the “true” beer connoisseur’s actually don’t share this sentiment? Id find that hard to believe with the overall hype/ high ranking of breweries like Other Half and Hill Farmstead who specialize in these styles.",0,0.9236,Positive,-0.00253030303030303,Neutral,0.4605348484848485,Positive
+beer,IPA,Anyone pick stouts/porters over the fan favorite ipa? What's your go to six pack/bottle?,I'm about 6 months into my craft beer discovery and I think I figured out I prefer stouts/porters. If I'm in the store I pick up a six of Founders Porter. You?,390,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,Turns Out Winner of Blind IPA Tasting Competition Just Jarritos Pineapple Soda,,702,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,Did Heady and Pliny spark the IPA boom in a way?,"Comment in another sub got me thinking back and reliving the evolution of IPAs. Time travel back to 2012 when the common ipa was a very malty 12 oz bottle that you bought a 12 or 24 pack of from your local distributor or store depending on state. A “local” brewery was often regional depending on where you lived and warranted an hour car ride for a Saturday day trip. Getting one of these on tap at your towns pub was considered a big deal and at minimum conversation worthy at work on monday. 
+
+Life was good in the post college life if you had 20$ a week to spare on a lot of these brews. 2013 and 14 brought more seasonal releases of doubles and different styles which kind elevated the game and everyone would count the days till you could get your hands on a case (nugget nectar and dirt wolf for me). Try one of those beers now and they literally do taste like dirt. I lived in Denver for half of 2013 as well, and even there at the time with everything opening up, the IPAs were still overall fairly malty.
+
+You would hear talk of these unicorn beers that were truly different and impossible to obtain. By the time I got my hands on heady topper the ipa race was well underway. For me, at the time, it definitely was the best ipa I had ever tasted. Fast forward to 2018 and the 4 pack craze was heading towards its peak. most people within an hour or two of a major metro could get beers that were in the same class as Heady, Pliny, Treehouse. The rest of the pre Covid era was a mad scramble to buy the wildest and different 4 packs you could find… 
+
+Post Covid IPA and craft era has been covered enough on here, but the 2010’s were truly a fascinating and exciting time for craft IPAs and I can’t help but think that the Heady topper and Pliny the elder memes and folklore sparked the race…",1,0.9776,Positive,0.12543103448275864,Positive,0.5520670327586207,Positive
+beer,IPA,Happy IPA Day - August 2nd! What IPA are you going to be drinking today?,I will drinking Madtree's Citra High.   [http://beerinfo.com/happy-ipa-day/](http://beerinfo.com/happy-ipa-day/),301,0.0,Neutral,0.16,Positive,0.10407999999999999,Positive
+beer,IPA,Grapefruity IPA recommendations,"Anyone have recommendations for a good IPA with a lot of grapefruit flavor (preferably one I could find in CT). I want to pick something up for Super Bowl. Not looking for one with artificial grapefruit flavor or actual grapefruit added, rather the hop profile that gives that grapefruit taste. ",5,0.7964,Positive,0.10833333333333331,Positive,0.45462849999999994,Positive
+beer,IPA,"New England IPA's have really grown on me, what's your favorite brand that can be found across the US, or in the Northeast at least?",,49,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,Death By Hops: Triple IPAs Are Pointless and Gross,,126,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,Voodoo Ranger Juice Force Fruit Punch IPA - a poorly written and succinct review.,"It's bad, so bad. The end.
+
+Nb - A buddy brought them to a hangout, and I thought ""huh, I can sip on this tall boy for 30-40 min and I won't mind..."" Boy, was I wrong. Every sip I wondered ""what god allowed this monstrosity to be created? Why would anyone ever want this?""",213,-0.8423,Negative,-0.6333333333333332,Negative,-0.8949716166666666,Negative
+beer,IPA,New Belgium Voodoo Ranger Juice Force IPA - don't buy it even on sale (which I did).,"Been a while since I actually had a disgusting beer.. maybe it's off or whatnot but it was like 2 bucks for a tall boy and BLEACH.. It's sweet in all the wrong ways.. has kind of a caramel back taste that might work in a porter or a stout.  Hoppyness of IPA is missing or obscured by this tang (the space juice mix) flavor. Nasty
+
+I like other voodoo ranger brews but this one: avoid at any cost!",111,-0.5255,Negative,-0.21180555555555555,Negative,-0.4095732361111111,Negative
+beer,IPA,3 Floyds Zombie Dust is nearly impossible to find in East TN. Any good pale ale or IPA alternatives?,,19,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,Colorado Brewery Will Debut CBD-Infused Sativa IPA at Great American Beer Fest,,814,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,Does anyone else miss black IPAs?,,462,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,"NE-IPA’s Quest for “Juicy” Has Led Us Toward Increasingly Undrinkable Beer, and “Hop Burn” is the Culprit",,486,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,American Style IPA from Sainsburys (UK) Tasting like Cannabis.,Not sure if the title is allowed here but this beer in specific tastes so much like cannabis (not to complain as im an ex smoker/edible user) can someone explain this to me or is my brain just imagining the tastes? Had a lot of beers in my time especially craft but this one reminds me so much of cannabis. Thanks and apologies if this was against the rules.,40,0.8658,Positive,0.05833333333333334,Positive,0.4805493333333334,Positive
+beer,IPA,IPAs have run their course,"I wonder when brewers will understand most people don't like IPAs.  They were always a nice alternative, but the market exploded with shit people don't like.  Dogfish Head did a good 120, but that's it.  Enough Already!
+
+Edited to add AI response.  But I trust you guys are smarter
+
+  
+does the drop in sales for craft beers correlate with the surge of more IPAs being the offering from the craft brewers?
+
+The drop in sales for craft beers does seem to correlate with the surge of IPAs being the primary offering from many craft brewers. While IPAs have been incredibly popular and have driven much of the growth in the craft beer market, their dominance has also led to market saturation. This saturation can result in a decline in overall sales as consumers seek variety and new experiences.
+
+Additionally, the craft beer market has faced increased competition from other alcoholic beverages like hard seltzers and spirits-based drinks, which have gained popularity in recent years. This shift in consumer preferences, combined with the market saturation of IPAs, has contributed to the decline in craft beer sales.
+
+If you have any more questions or need further assistance, feel free to ask!",0,0.9822,Positive,0.22472089314194577,Positive,0.6034604465709729,Positive
+beer,IPA,Tired of Hazy IPAs,"I love craft beer and have enjoyed the brewery boom over the last decade. However, the trend over the last few years has ruined my desire to go to any local spots. My favorite style is west coast or imperial IPAs. Anything that has that dry, slightly bitter finish. Barely any places brew anything other than juicy and hazy IPAs now. They are certainly trendy, and more importantly for the brewery, anyone can drink them. My feeling is that juicy and hazy IPAs are great for those who don't actually like IPAs. Am I alone in this take? I did order hazy IPAs back when they weren't as popular if I wanted to mix it up with something easy and refreshing. I did not expect some staple beers to be removed from menus to make room for hazy versions. I understand why they are popular, and I'm sure they generate money because they appeal to all drinkers, but I have no desire to go to a local spot for a drink, something I loved to do. I can sit at home with a perpetual or a two hearted ale and simply enjoy what I'm drinking.
+
+Edit: clarifying that I am only referencing the IPA selection when saying breweries barely brew anything other than hazy/juicy/NEIPAS. They still have other types of beer",174,0.9561,Positive,0.23764367816091952,Positive,0.7007275390804597,Positive
+beer,IPA,Brut Busts and Brett Who? The Next Big IPA Sub-Styles That Never Were,,134,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,IPA,Why does everything have to be an IPA?,"Yes, I like IPAs. But I am sick of the only option being IPA. I'm sick of having to bend over backwards to get a stout or anything that isn't an IPA. I understand it's the most popular beer. But come on. No one's ever going to disciver anything new if the only options are IPAs. Rant over.
+
+Edit: Yes, local bars have a better selection as do some specific liquor stores. But grocery stores within a comfortable distance is what I'm referring to.",0,0.704,Positive,0.06434474616292797,Positive,0.38417237308146396,Positive
+beer,IPA,How One Beer Geek Fell out of Love With Hazy IPA,,236,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,lager,"Why do people refer to ""lager"" like it's a beer style?","I get why people who aren't beer needs do it (they think lager = regular beer like AALs and Pale Euro laters), but I see it on here all the time too.
+
+Considering that a lager can be anything from Busch Light, to a Doppelbock, to an IPL, it's no more descriptive than the term ""ale"".
+
+",0,-0.2617,Negative,-0.014999999999999993,Neutral,-0.13835,Negative
+beer,lager,I drank 33 American lagers so you don't have to,"I've run the gamut on exploring different beer styles and have grown tired of the craft beer game. I've been drinking (good) lager most of the time lately, and have been thinking about how I've never had a shit lager phase. I drank mostly fruity vodka drinks and Crown Royal in college, and when I turned 21, I discovered the craft beer section at the grocery store and went from there. Then I started thinking, I should put together a shitty lager tasting and torture my friends! Now I've finally done it.
+   
+There are a lot of beers in this category, so I limited myself to 33, all American, including a handful of Michigan brewed and regional options. Most of these beers were within recommended freshness. 
+
+We first sampled all 33 beers in one night. Getting through it all was a struggle. Trying so many similarly tasting beers in one night is *very* mentally exhausting, not to mention the exhaustion of excessive drinking. Yet, at the very end, the #1 beer was unanimously decided, and everyone's top 5 was pretty damn close. For the 4 months after the tasting, I drank several more of each to fine tune my ratings and comments. I drank them grouped by brewery, I've drank them worst to best, and I've done more side-by-sides than I can count. I questioned why I was laboring so hard over this pointless ranking... but I had to keep on going.
+   
+Perhaps the most eye-opening part of all this was how profoundly shitty it made me feel. The hangover made me feel so remarkably disgusting, considerably more so than craft beer ever has, and in a qualitatively different way. I'm thinking it's the dog food grade ingredients used in these shitty lagers. I hope to never feel that way again.
+
+Anyways... on to the ranking!
+
+#[The Killshot](https://assets.untappd.com/photos/2024_01_27/3e3a9798fba856c2c497652d7fba5b77_c_1351703492_raw.jpeg)
+    
+1. [High Life](https://assets.untappd.com/photos/2024_01_27/6a19a589b975bfbd571abcf0e4e26d0b_c_1351728906_raw.jpeg) - 4/5 - The champagne of beers is unanimous winner of the 33 shit lager showdown. Wonderfully balanced, flavorful, and clean maltiness with a well balanced hop note. This truly sets the standard for American macro lager.
+
+2. [Pabst Blue Ribbon Extra](https://assets.untappd.com/photos/2024_01_27/6fe817048ac162db1a589cc8fea60438_c_1351727722_raw.jpeg) - 4/5 - I am surprised by how good this is compared to regular PBR. It's bolder but tastes like better quality ingredients too. There's a bit of a spicy earthy toasty hop thing, and a more substantial maltiness and body. Great stuff! It's also the only mass market lager I found packaged using the plastic PakTech can carriers.
+
+3. [Coors Banquet](https://assets.untappd.com/photos/2024_01_27/7b4e5174d56b143c9a2a136b842f2154_c_1351726697_raw.jpeg) - 4/5 - Easily top 3 American shit lagers. Super clean crispy malts, light balanced hops, a touch of sweetness, and an almost creamy carbonation profile. It just tastes good.
+
+4. [Hamms](https://assets.untappd.com/photos/2024_01_27/86fd4815d92ac6ccbc29b16e065f688e_c_1351726314_raw.jpeg) - 3.75/5 - Surprised myself with how much I like this one. Superbly clean and crispy, maybe a touch sweeter than others but tastes great. I miss the Hamms Instagram account
+
+5. [Rolling Rock](https://assets.untappd.com/photos/2024_01_27/c1860d79e0d1f99e897db03ecf35c8f3_c_1351725860_raw.jpeg) - 3.75/5 - Crispy, super clean malt, melon rind hop, with great balance. It's delightfully simple and infinitely crushable. Very well executed.
+
+6. [Bud Ice](https://assets.untappd.com/photos/2024_01_27/8db71c26e5166caad86c66f9fef24def_c_1351724203_raw.jpeg) - 3.75/5 - I love this label, makes me think of 90s-era ice hockey. Tastes surprisingly good. It's definitely stronger but it's not offensively bold like most other ice beers. Maybe a little more prominent wood flavor smoothing things out aside the crispy clean maltiness. Huge spread across the rankings from Budweiser!
+
+7. [Budweiser](https://assets.untappd.com/photos/2024_01_27/19b841c856338a6a0e43a46d129547f2_c_1351723555_raw.jpeg) - 3.5/5 - My late grandfather's beer of choice, because everything else gives you brain cancer. I like it too. Beechwood gives the clean crushable maltiness a smooth woody flavor that I probably wouldn't notice if I wasn't overanalyzing it.
+
+8. [Old Style](https://assets.untappd.com/photos/2024_01_27/f8ff28505fa3c2022b602fe45107f3e0_c_1351723127_raw.jpeg) - 3.5/5 - Chicago's favorite. It's maybe a little sweeter than most of the others but brings good body, a deliciously clean maltiness, and a light earthy hop.
+
+9. [Strohs](https://assets.untappd.com/photos/2024_01_27/83d58fdfa1969a792c00babda389da78_c_1351722825_raw.jpeg) - 3.5/5 - Formerly brewed in Detroit. Super clean maltiness with a well balanced melony lychee hop thing going on. My dad loves to tell me about his relatives who could drink on the job at the Stroh's factory (but not too much!). Anotehr fun fact - Stroh's spelled backwards is Short's!
+
+10. [Altes](https://assets.untappd.com/photos/2024_01_27/52c355dfa1f510a713c81e939fc8421b_c_1351722035_raw.jpeg) - 3.5/5 - Earthy bitter hops and piney sweetness atop a toasted caramel malty base and a crushable body. Maybe crystal malt? Nice hoppy amber vibes. Probably doesn't fit the category all that well, but I'm glad I've tried this Detroit classic.
+
+11. [Michelob Ultra Pure Gold](https://assets.untappd.com/photos/2024_01_27/45503b76bfc1b25eecb452b0cfc7fcd3_c_1351721320_raw.jpeg) - 3.5/5 - Better flavor than regular Ultra. Nice clean crispy grainy lagery goodness. I'm thinking that going organic must also meant better ingredients.
+
+12. [Michelob Ultra](https://assets.untappd.com/photos/2024_01_27/55dc8cbf5f54a8ca2346adf100cce120_c_1351720724_raw.jpeg) - 3.25/5 - Not bad for a light beer! Crispy and clean, maybe a touch of sweet cereal grains. Ultra light flavor overall, but the flavor that is there is surprisingly decent. It also keeps a consistent flavor as it warms up, which is why it ranks so high on my list.
+
+13. [Pabst Blue Ribbon](https://assets.untappd.com/photos/2024_01_27/365b6f4a5eaea49f0a78e66d8d88201f_c_1351719655_raw.jpeg) - 3.25/5 - This is pretty much exactly what I think of when I picture the average American shit lager. Crispy and mostly clean with a little toasted malt and earthy hop, but the ingredients taste cheap overall.
+
+14. [Coors Light](https://assets.untappd.com/photos/2024_01_27/faee680671cca497c260ac9ade74e9fa_c_1351719275_raw.jpeg) - 3.25/5 - Coors has their carbonation profile down very well. Nice crispiness without the carbonic acid flavor other light beers have. There is a little clean malt flavor but it's pretty light. Tastes very meh when the carbonation dies down.
+
+15. [Miller Genuine Draft](https://assets.untappd.com/photos/2024_01_27/95be8f76debcce5f865763df04b6108f_c_1351718587_raw.jpeg) - 3.25/5 - Awesome label. Beer is fine. Less flavorful than High Life. Maybe a little sweeter and a little more artificial tasting. 
+
+16. [Solid Gold](https://assets.untappd.com/photos/2024_01_27/b32158e8c3b5fd3ff073397133ea9ead_c_1351718049_raw.jpeg) - 3.25/5 - Sweet grainy aroma. Tastes a lot less artificial than the typical American lager, not to mention more complex, but its slapped right back down by gross corn flavor.
+
+17. [Michelob Original](https://assets.untappd.com/photos/2024_01_27/37294c62e0bc80db186f062634451482_c_1351717581_raw.jpeg) - 3.25/5 - I didn't know this still existed! This is the hoppiest of the bunch, but that's not saying much. A light floral and earthy hop atop a clean yet slightly caramelly maltiness.
+
+18. [Natural Ice](https://assets.untappd.com/photos/2024_01_27/0ad145fa017717a8adedfd632b79857d_c_1351717051_raw.jpeg) - 3.25/5 - A little bolder than the average shit lager. A little melony hop and a crispy clean malty base. Some cans have hints of doo doo Natty Daddy flavor. Its inconsistent, just like Natty Daddy, but its usually on the better side
+
+19. [Old Milwaukee Light](https://assets.untappd.com/photos/2024_01_27/6c2793b263d1662c5be7f0e82fee28c8_c_1351716320_raw.jpeg) - 3.25/5 - Another light beer that tastes very similar to the original, just a little lighter overall. A little drier too. A rare case of the light beer tasting better than the regular!
+
+20. [Old Milwaukee](https://assets.untappd.com/photos/2024_01_27/e58d5fc7f541c57cd089651e9ab1cbf9_c_1351715819_raw.jpeg) - 3.25/5 - Somewhat sweet cereal grains, like off brand Lucky Charms, and a clean finish. This is the only beer of this lineup I had to buy in 30 rack form, but I don't think I'll have a problem smashing through it.
+
+21. [Bud Light](https://assets.untappd.com/photos/2024_01_27/3d42b5fba88293261a2f9358c3771f4b_c_1351714982_raw.jpeg) - 3/5 - Light and crisp with a nice clean maltiness. A little more carbonic bite. Not much else to it, which I suppose is the point.
+
+22. [Strohs Light](https://assets.untappd.com/photos/2024_01_27/4d47f2fb953dad2fd03cfc14e3bd12ee_c_1351714500_raw.jpeg) - 3/5 - Much lighter and less flavorful than the OG. There's a little carbonic astringency to it, but there's still some good flavor of the OG in there. It gets better as carbonation settles.
+
+23. [Miller Light](https://assets.untappd.com/photos/2024_01_27/7b9c4e51c0765995b5dafd0ccf2fe11f_c_1351713607_raw.jpeg) - 3/5 - My first beer! I hated it then, but it's tolerable now. Certainly lighter than their other beers but theres some decent clean malty flavors in there.
+
+24. [Natural Light](https://assets.untappd.com/photos/2024_01_27/fee828af2a15a1dcc8d5c7d8d49c4f9c_c_1351712910_raw.jpeg) - 3/5 - Nothing spectacular but it's light, crispy, clean, and inoffensive. I didn't hate drinking it. Although, I once drank this warm on an island with a local hermit, and it was pretty enjoyable that day.
+
+25. [Busch](https://assets.untappd.com/photos/2024_01_27/79448458d4a36cef2e92ecfaccb804d1_c_1351711316_raw.jpeg) - 3/5 - Crisp and clean, but leaning hard into light beer territory in terms of flavor (or lack thereof) and abv at 4.3%. Getting a little corn coming through also.
+
+26. [Busch Light](https://assets.untappd.com/photos/2024_01_27/c00390b8938369196870eb3be956aed5_c_1351710118_raw.jpeg) - 3/5 - Crisp, clean, and a little corny. Tastes virtually the same as regular Busch, but it's also only 0.2% lighter so what's the point? If anything, it's just a little lighter and a little sweeter.
+
+27. [ICEHOUSE](https://assets.untappd.com/photos/2024_01_27/5fe379ccf1ca2498cc1914a8d76ab001_c_1351709617_raw.jpeg) - 2.75/5 - It is certainly bolder than most. A mix of potent grains, slightly caramelly with a surprisingly clean and crushable finish.
+
+28. [Bud Select](https://assets.untappd.com/photos/2024_01_27/fa5e3e0f41623b672dc523c7d7e944c8_c_1351709027_raw.jpeg) - 2.75/5 - Crisp clean and light. Just tastes of meh super cheap ingredients. This is the only expired beer in the lineup (by 2 months), but I'm not sure it'd be much better if fresher.
+
+29. [Bud Select 55](https://assets.untappd.com/photos/2024_01_27/3890426b9eb6a054dd5ba08f4058198b_c_1351708381_raw.jpeg) - 2.5/5 - Astringent carbonic acid, super light, void of flavor except some light and super cheap malt. Why the need for gross 2.4% 55 calorie beer? Just stop drinking!
+
+30. [Natty Daddy](https://assets.untappd.com/photos/2024_01_27/f215c04e174ec59b9edf4fee86dd94db_c_1351707639_raw.jpeg) - 2.5/5 - Definitely stronger than your average shit lager. Not great though. Kind of an off brand honey cereal thing with a little boozy heft. Some cans are okay, but some taste downright awful.
+
+31. [Bud Light Platinum](https://assets.untappd.com/photos/2024_01_27/c3a3200af4ccc8d526cb055746201f30_c_1351706335_raw.jpeg) - 2.5/5 - Why is a Bud Light variant their stronger than Bud Ice? This is bold in ways that do not taste good. Stronger shittier malt flavor and a heavier body. I can't believe so many people choose to drink this.
+
+32. [Schlitz](https://assets.untappd.com/photos/2024_01_27/98ae15d3804cfe7b06685a6ebca93429_c_1351704991_raw.jpeg) - 2.25/5 - Tastes like cheap sweet cereal grains, kind of a shitty caramel thing, and a little bitterness. It's gross.
+
+33. [Bud Light Next](https://assets.untappd.com/photos/2024_01_27/62b5e6155d25220a60231152dcd30a15_c_1351704172_raw.jpeg) - 1.5/5 - This is truly awful. Overcarbonated and mostly tastes of carbonic acid with some astringent fruit flavor at the end. If it didn't say beer on the can, I would have thought this was a shitty attempt at a White Claw.",746,0.9998,Positive,0.17226326790258098,Positive,1.0232112328789533,Positive
+beer,lager,Dear Sam Adams: Please stop putting Boston Lager in your seasonal variety packs,"I mark the change of the seasons by the appearance of Sam Adams Seasonal Variety packs.  They all have some amazing beers in them (and a few dogs), but seriously I know what Boston Lager tastes like; not bad but very generic.  If I wanted Boston Lager I'd buy Boston Lager!  Take them out and throw in a new seasonal!
+
+Thank you,
+A repeat Sam Adams customer",1516,0.9044,Positive,0.09785353535353536,Positive,1.2608349474747476,Positive
+beer,lager,Lagers are under appreciated,"I tend to experiment and try many beers in many styles. I tend to prefer lagers a majority of the time. I can appreciate a good stout and porters but only on special occasions.
+When I go to the beer store it's almost all ales and IPAs. I am not a fan of ales and I do like some IPA's as long as they are not overly heavy/filling.
+Most stores all carry the same stuff and it gets really boring. I would rather not drink any beer at that point. 
+I end up drinking far less but better beers.
+I stay away from the mainstream brewers and tend to go for craft or local brews.
+Having said all that I wish more breweries took the time to craft quality lagers.
+Why are there not more breweries open to brewing more lagers? Is it that the market isn't there? I don't really see that at the stores I go to where they carry a wide variety of craft beer. 
+Is it more difficult to make a lager that stands out? Is it that lagers take a little longer to brew?
+Is it not cost effective or just under appreciated?",114,0.8883,Positive,0.14179067460317463,Positive,0.5737605057539683,Positive
+beer,lager,Fat Tire is now a lager,"Did anyone else hear about this yet? 
+Fat Tire is no longer an amber ale, but a light lager. Discovered this last weekend in a bar in Fort Collins and it crushed me. I asked at another bar and they confirmed. I googled to see if the internet was talking about it - nothing. Most interestingly, NO announcement from New Belgium that I have found. Their website still lists Fat Tire as an amber ale. I called New Belgium to confirm, and in their words, “Yes, the recipe has changed” but that’s all I got. I had diminished faith in them once they sold out, and now all faith is lost. New Belgium, you’re dead to me.",427,-0.762,Negative,0.11590909090909089,Positive,-0.4609858636363637,Negative
+beer,lager,Good replacement for OG Fat Tire or Boston Lager?,So both of my go-to beers got new recipes which I don't like.  What recommendations do you have that can be found in a Total Wine or other popular store?  I'm in FL. ,22,0.1754,Positive,0.15284090909090908,Positive,0.16773110454545453,Positive
+beer,lager,Good American Lagers?,"Hi All,
+
+I've not been to the States in a few years and only went once as an adult. Last time, I went to New York, and I thought the standard of beer was absolutely horrendous. I have tried most of the ones I perceive as popular; Bud, Coors, Millar, Blue Ribbon etc, and to put it nicely, they taste like piss.
+
+I did, however, have one great experience at an IPA bar around the corner from the Rockerfella Center. (Aside from nearly being taken out by the bouncer for walking past him without showing my ID, the IPAs were great.) 
+
+Is there just a large discrepancy in standards of US lagers and IPA’s or was I just drinking the wrong beers at the wrong places?",0,0.5279,Positive,0.13161312371838688,Positive,0.32975656185919344,Positive
+beer,lager,"Samuel Adam's beer just ""Remastered"" it's famous Boston Lager and it reminds me of New Coke.", I'm very disappointed.  Why fix something that doesn't need fixing?  It's hoppier.,172,-0.5256,Negative,-0.9750000000000001,Negative,-0.8793515999999999,Negative
+beer,lager,"Not Your Daddy's Kirk-O Lite! Kirkland Signature ""Helles-Style"" Lager","This stuff is brewed in Bend, Oregon by Deschutes Brewing. This stuff is pretty decent, tastes similar to a Miller High Life (American Lager comparison) and some other Helles-Style beers I've had in the past. It was $14 on the 12-pack, I've paid much worse for worse beer. ",30,-0.4588,Negative,-0.06648148148148149,Negative,-0.27051996296296293,Negative
+beer,lager,"Favorite mass produced CRAFT beer? Think Allagash White, Bell's Two Hearted, Sierra Nevada Pale Ale, Boston Lager, etc.",It's a toss up between Bell's and Allagash for me but curious to hear your guys thoughts!,212,0.501,Positive,-0.125,Negative,0.227856,Positive
+beer,lager,How's the lager scene in your area?,"I'm in Atlanta and we have several breweries focusing on lagers and doing very well with them.  Based on my limited beer bubble, the lager scene is doing great and growing.  We have a good range as well - Pilsners, Vienna Lagers, Bocks, and Schwarzbiers.  I spent Saturday sitting on the rooftop patio at Halfway Crooks enjoying their Kolsch Fest. (OK, not lager, but very lagery.)
+
+However, I just spoke with a friend that opened a brewery in Fort Worth and he mentioned that Lager Love is still mostly a brewers thing, although there is some growth happening.
+
+So I'm curious, how is the lager scene in you area?",165,0.98,Positive,0.3021978021978022,Positive,0.7468802197802198,Positive
+beer,lager,Whatever happened to regular michelob lager,,17,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,lager,Abita Brewery out of Louisiana is absolutely amazing. The wife and I started going to NOLA for our anniversary the last 3yrs and discovered it during the French quarter fest. Their strawberry lager is soooooo good. I was lucky enough to find it here in Texas and I’m glad I did! Try it!!,,49,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,lager,RIP: Trader Jose’s Lager,"As Trader Joe’s is want to do, they’ve discontinued another favorite product of mine: Trader Jose’s Lager. I loved its crisp, light  body without the skunkiness of Corona. 
+
+Can anyone suggest a suitable substitute for Trader Jose’s lager?",41,0.802,Positive,0.4800000000000001,Positive,0.667281,Positive
+beer,lager,Majority of popular 'continental lagers' actually brewed in UK as brands exposed,,48,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,lager,Does anyone know of any good craft breweries that specialize in lagers?,"Before I say anything else, I'm thinking there's a possibility that this is a very frequently asked question, so I apologize in advance if this is one of those questions that's mentioned in a pinned post that I failed to notice.
+
+To return the favor, I'll list what I know of for anyone else who's also looking for the same thing.
+
+I know of a few places such as Live Oak in Austin, Urban Chestnut in St. Louis, and Dovetail and Metropolitan in Chicago. All of these breweries focus on traditional German and Central European beers. Which isn't quite the same thing as making only lagers, although I enjoy a lot of their other offerings as well (such as their hefeweizens and koelsches). I believe a few of them also make some Belgian ales, and a few make stouts and pale ales, although Central Europe is still their main focus. So they'll definitely have much more to choose from than 16 IPAs. As for breweries that only make lagers, I know of Bierstadt in Denver and Goldfinger in Downers Grove (a suburb of Chicago). As far as I know those breweries have never made anything that doesn't use lager yeast. Which is quite an appreciated change to today's world of ale saturation.
+
+There's really nothing like being able to go to a brewery and having to choose between a pilsner, a helles lager, a Vienna lager, a festbier or maerzen (if it's that time of year), and a dunkel or schwarzbier (my personal favorite) or bock or doppelbock or whatever their current seasonal offering is.
+
+EDIT: I forgot to mention Zwei, Chuckanut, KC, Enegren, Jack's Abby, Wayfinder, Heater Allen, Suarez, Wolverine State, Prost, and Altstadt.",77,0.9108,Positive,0.045097751710654936,Neutral,0.5147509392961876,Positive
+beer,lager,What does Yuengling Lager taste like ,As the title suggests what does Yuengling taste like I’m going to a spring training game and I want to try the lager I’ve looked up the flavor profile but I’m still confused so I thought I would ask here and( yes I’m 21 just turned 21 3 days ago),0,0.3612,Positive,-0.4,Negative,-0.0194,Negative
+beer,lager,"So, Thoughts on the new 'remastered' Boston Lager?","It's been out for about a month plus now, and I've gotta say it's a shame. Flavorless, substanceless, just another ""domestic lager"" like Bud or Coors. I was a pack a week, with it being my favorite ""Beer that tastes like beer"". Now I'm looking for replacements.
+
+What do you think of it? Any chance of a ""Classic Coke"" situation and a return to normalcy?",100,0.7399,Positive,0.2222222222222222,Positive,0.5291672222222222,Positive
+beer,lager,"Can you taste the difference? Study claims lite lager brand loyalty based on marketing, not taste",,499,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,lager,Do you ever ask for a taster of beer in a pub? and if so is it ever a lager or usually ale?,"Having a convo with my mate who said it's normal to ask for tasters of beer in a pub, but I've never seen it. Does anyone else? and do you drink lager or is it usually ale?",146,0.0,Neutral,-0.05,Negative,-0.02865,Negative
+beer,lager,"I only like Mexican Lagers, what to try?","Basically the title. Looking to branch out a little bit. I’m located in Minnesota and have tried every Mexican beer from my local liquor store. Dos Equis, Modelo, Corona, Sol, Pacifico etc. 
+
+For domestics I usually just stick to Budweiser.
+
+By far my favorite are Victoria and Estrella Jalisco. And while not technically a Mexican beer, I also really like Landshark. I’ve tried Modelo Negra but still much prefer the Victoria.
+
+I’ve come to realize I just don’t like any hoppy flavor in my beer, so Kona and the like aren’t really for me. 
+
+So what should I have next? Is it worth buying a 12-pack of Pilsner Urquell or Peroni? 
+
+Any suggestions appreciated, thanks!",0,0.967,Positive,0.10803571428571428,Positive,0.5375178571428572,Positive
+beer,lager,Pacifico is the GOAT Mexican Lager,"Pacifico is the smoothest, crispest, best tasting Mex Lager on the market hands down.
+
+Corona is awesome however it often has a skunk aroma.
+
+Modelo is a solid rival however does not go down as smoothly as Pacifico. Modelo has higher ABV however it heavier and less crisp.
+
+I tried a craft option named after “Sublime” that was damn good but no Pacifico.
+
+Pacifico dressed with fresh lemon and Mediterranean Sea Salt is heaven. It’s so crushable it provides the perfect buzzzzzz.
+
+Thoughts?",229,0.9451,Positive,0.3685185185185185,Positive,0.8072185796296297,Positive
+beer,lager,Favorite lagers?,"Hello, I live in Richmond, VA. Mostly been a fan east coast /west coast IPA’s over the years, along with seasonal stouts/sours. I’m a pretty open and appreciative beer connoisseur, and have started to become interested in lagers more and more. Let me know yalls fav go to quality lagers. I’m working on getting a 4p of Slow Pour from Bierstadt Lagerhaus from a friend in Denver because I heard it’s a 10/10 Pils. I live very close to the Veil/Triple Crossing/Vasen/Answer/Bingo so I’ve had a lot of good beer and solid local lagers. but want to find a more readily available go to. I’ve also tried a decent amount of imports like Hofbrau, Weinstephaner, Ayinger, etc but haven’t found the perfect one yet (although I did enjoy all of them). Thank y’all!",11,0.9809,Positive,0.3178628389154705,Positive,0.6565246150717702,Positive
+beer,lager,Bought the Remastered Sam Adams lager and it tastes like coins,Anyone else experienced this? It tastes like I'm drinking pennies ,118,0.3612,Positive,0.8,Positive,0.6491108,Positive
+beer,lager,Pilsner Lager?,"I just heard of (and tried) Utica Club for the first time, and I'm curious what it means to be a ""Pilsner Lager""?  I thought it was a decent beer and I'm wondering if there are others in the same category or if it's just a marketing thing.",1,0.3182,Positive,0.07916666666666666,Positive,0.19888201666666663,Positive
+beer,lager,How good is Budweiser Budvar Original Czech Lager?,,13,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,lager,Disappointed with Sam Adams Boston Lager,I recently bought a 6 pack of Samuel Adams Boston Lager to try cause I was curious. It doesn’t even taste like a Lager!  It’s super bitter and it almost tastes like an IPA. Is this normal or did I get a bad batch?,0,0.6012,Positive,-0.07361111111111109,Negative,0.26379444444444444,Positive
+beer,lager,"I tried to be fair, but macro lagers just really aren't good.","The ""my friend who is really into beer keeps Banquet/High Life on hand"" comments are so common, one has to wonder if it's not a deliberate marketing strategy. It worked on me, though. Having not tasted either for years, I picked some up and was ready to admit snobbery had tainted my view and they were solid beers.
+
+Nope. They're thin and lifeless. Drink like seltzer with barley essence. Been drinking a lot of craft/bohemian lagers lately to avoid pickling myself with sours wondering if the mark-up is worth it, and I'm now convinced the answer is decidedly yes. Not even mad I bought these and didn't even taste nostalgia: it's a good reference point for appreciating better ones.",126,0.9764,Positive,0.02749999999999999,Neutral,0.5651957,Positive
+beer,lager,"No Longer Just For Macro Lagers, Craft Beer Is Finally Embracing Rice",,119,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,lager,Looking for an exceptional Pilsner or Lager,"Got Lyme disease and stopped drinking for 5 years due to antibiotics and a histamine intolerance. I recently learned that bottom fermented beers like Pilsner, Lager, Festbiers etc have lower histamine content and I can handle them ok.
+
+Anyone have a beer brand that would be available at a local beer mart that's in a league of its own?",13,-0.1531,Negative,0.22916666666666666,Positive,0.03852776666666665,Positive
+beer,lager,A good lager for the mountains? ,"What’s a decent lager that has some cool nature artwork? I’ve had Bigfoot from Sierra Nevada but not a lager, I know. ",30,0.1655,Positive,0.2583333333333333,Positive,0.21827416666666666,Positive
+beer,lager,Any recs similar to Yuengling Lager (taste and price point)?,"The Teamsters recently released a list of Molson Coors-related beers to boycott because their employees are on strike. Included in the list is my go-to, Yuengling Lager. I'm trying to be a good comrade, but I'm a little picky about my beers and, for the price point, Yuengling lager is nye-perfect. A little on the darker side and \~$25 per case. Anyone have any recommendations for something similar? ",7,0.0129,Neutral,0.06499999999999999,Positive,0.03922264999999999,Positive
+beer,lager,Why is Hamm's the universally accepted lager?,"Maybe this is me overthinking, but what is it about Hamm's that gets a pass from beer fans when it comes to basic-ass lagers? Compared to things like Busch, Bud, Miller, etc... Hamm's always seems to be looked on more favorably, from myself included. Is it nostalgia, or is it something more?
+
+
+Edit: ok I get it, I worded the title poorly, I'm sorry 😭",0,0.7242,Positive,0.25,Positive,0.4871,Positive
+beer,lager,"Looking to narrow down the types of beer I like. I'm a bit overwhelmed with all the different kinds (ales, IPAs, amber ales, brown ales, stouts, porters, lagers, etc.), so maybe you guys can recommend some things based on what have enjoyed so far?","I'm definitely a dark beer kind of guy. Common light beers like Coors, Bud Light, Miller Light, and Blue Ribbon all taste like ass to me. I'm not sure what category those kind of beers fall under, so I'm not sure how to properly refer to them. Even Blue Moon isn't my cup of tea. The only light beer that I don't mind too much is a Corona with a lime on a hot day. Anyway, for things I do like, Amber Ale's have been my most consistent beer so far, as far as my likelihood of enjoying it. Mac n' Jack's Amber is my favorite, if anyone is familiar with it. IPA's are usually pretty good, as long as they don't have a strong citris flavor. I've started getting into Stouts lately, with mixed results. All the local stouts I've had have been nasty, but I recently tried a couple Samual Smith stouts and oh man, those were delicious! ",7,0.8806,Positive,0.1714646464646465,Positive,0.5297145494949494,Positive
+beer,lager,Carlsberg to sell its lager in cardboard bottles,,432,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,lager,"Why did Heineken change from ""Premium Lager Beer"" to ""Premium Malt Lager?""",,30,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,lager,What are some good lagers or ale's to try?,"I have pretty much just drank spirits up until my 21st birthday. Now, I have actually acquired a taste for beers. My favorites are Modelo, Corona, Miller Lite, and Budweiser. I've done some research and found out these are lagers and are pilsner style. I tried to find others that I like on my own, but the lists are way too long. I was hoping to find some good recommendations based on the ones that I do like. I'm also not opposed to trying ale's, but IPA's are not for me. Abv doesn't matter to me, but the taste sure does. Water-downed beers like Michelob Ultra, Coors Light, and Bud light are not for me. Hopefully I get some good recommendations to find new favorites.",0,0.9783,Positive,0.3196969696969697,Positive,0.6489984848484849,Positive
+beer,lager,Blind-tasting and ranking 30 macro adjunct lagers (with unexpected results),,243,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,lager,Can I use Budweiser in place of Mexican lager in a beer cocktail?,I’m fairly new to beer and google isn’t helping. I have some Budweiser I’m trying to use but can’t stand the taste plain and want to experiment with beer cocktails. Can I use Budweiser as a general base for these? How much will it alter flavor?,25,0.3421,Positive,-0.1255844155844156,Negative,0.11096423701298701,Positive
+beer,lager,Beers like yuengling lager?,"I've recently been trying a lot of beers to find a good one. These are the ones I've tried and I'll sort them by bad ok and good
+Bad: voodoo ranger fruit force, Busch light, naturdays
+Ok: voodoo ranger juice force, sweetwater pale ale, sierra nevada pale ale
+Good: voodoo ranger imperial ipa, voodoo ranger juicy haze
+Top: yuengling lager
+
+Clearly I've been trying a lot of fruity beers which honestly aren't my thing, but I tried one of my roomates yuengling and it was completely different than all the other ones I tried. It tasted good, I genuinely enjoyed drinking it, it didn't feel like I just ate a loaf of bread, and the alcohol wasn't bitter or anything. I'm guessing this probably isn't even an amazing beer it's just the first quality normal one I've tried, so I'm looking for suggestions for more like it but better.",12,0.9536,Positive,0.2439583333333334,Positive,0.6059645166666666,Positive
+beer,lager,"Why does the Stella box I bought say “Imported Lager Beer” but tbh e bottles say brewed in St. Louis, MO?","So I am aware that AB has shifted their production over to the U.S., but the reason I bought this 12 pack was because it looked significantly different than the rest of them, with this one saying “Imported Lager Beer” instead of the normal “Premium Lager Beer.” I thought perhaps I finally stumbled upon an imported pack that was accidentally mixed with the rest somehow, but I was disappointed to find the “Brewed in the U.S.A.” stamp on the bottles. So was this a manufacturing error and the bottles ended up in the wrong box? Or were the bottles brewed in Belgium and they were imported by Import Brands  Alliance? The box and bottles seem to contradict themselves, so I was hoping someone in here could clarify, but I feel like this sort of falls under the lines of false advertising. The bottom of the box even says “Imported by Import Brands Alliance St. Louis, MO” so how can this be? 
+",58,-0.9021,Negative,-0.15625,Negative,-0.55986715,Negative
+beer,lager,"Lager Lovers, Unite!","You are: An old school beer fan who wishes beer tasted like it used to, or a new school bleeding edge beer fan that thinks lagers are the next big thing.
+
+We are:  A brewery in Michigan with traditional beer roots that happened upon a hit with a hazy beer.
+
+What we want:  To leverage our newfound beer nerd equity and throw an international by invitation lager festival in our home town.  The plan so far is to get beer from around 45 of the best lager brewers from around the world and invite lager fans from near and far to consume said lager beer, with food trucks and music.   This will be the Williamston International Festival of Lagers!
+
+What we need from you:  If you’re a lager fan, tell us who your favorite lager brewery is.  Even better, if you know someone at that brewery, have them send a note to wifol@oldnationbrewing.com expressing interest.
+
+Details You Might Care About:
+Date:  June 2nd, 2018.  5-10pm (4-5pm, VIP only)
+Cost: Not sure yet.  Typical festival pricing with a certain amount of tastes included.
+Location:  McCormick Park in Williamston, MI
+",238,0.9899,Positive,0.1296657046657047,Positive,0.6930111711880711,Positive
+beer,lager,Ale recommendations for a lager drinker,"As the title states I'm looking for some Ale recommendations for a lager drinker. I have been trying different lagers for a while and will list my favourites below. I have been planning on trying ciders as the weather improves, but it hasn't so I'm thinking of trying some ales this weekend. Have been drinking lager for over 20 years and used to drink whatever was the cheapest. I also like stouts such as Guinness and Beamish. Not keen on overly citrus flavours. Some of my favourite lagers, if it helps (in no particular order):
+
+Krombacher pilsner
+Spaten helles
+Pilsner Urquell
+Birra Moretti
+San Miguel 
+
+
+
+",16,0.474,Positive,-0.027777777777777776,Neutral,0.22668088888888888,Positive
+beer,lager,Lucasfilm Is Suing The Empire Brewing Company Over Its Bock Lager,,413,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,lager,"Jack's Abby confirms it will stick with brewing lagers, discontinues line of ales",,293,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,lager,Tried Sam Adams Winter Lager for the first time tonight.,I loved their Ocktoberfest and I honestly think I like this a bit better. Has an orange taste to it and I get a gingerbread or nutmeg aftertaste. I’ve had two of them and I’m buzzing. Guess I’ll grab another.,219,0.9062,Positive,0.6,Positive,0.9180289,Positive
+beer,lager,US Micro Alternates to German Lagers?,"Got into an argument with a friend who literally refuses to try anything that's not a German lager and he always repeats that ""yeah hoppy beers are easy to make that's why you have so many microbreweries, it hides the taste, but it's really hard to make a good lager unless your engineers perfected it like in Germany"".
+
+As a result he only ever drinks Radeberger, Warsteiner, Dortmunder. Never seen him try anything even when offered a sip.
+
+Anyway his birthday is coming up and I want to prove him wrong but shipping him some good micros that he would enjoy
+
+
+Anyone have any recommendations, especially for US based microbreweries making good lagers?
+
+Edit: I'm in NYC, he's in Chicago",90,0.9718,Positive,0.24015151515151514,Positive,0.6605135757575759,Positive
+beer,lager,Utica Club Pilsner Lager? Anyone? Anyone?,"Anyone ever have, or even hear of Utica Club Pilsner Lager Beer? Saw it in the store in NY State tonight for the 1st time ever. Over by the PBR and Ole Milwaukee. Cheap price obviously. Wondering how it stacks up vs. the usual suspects of cheap beers like previously mentioned, or Banquet beer, Narragansett, etc, etc. ",22,0.0258,Neutral,0.07666666666666669,Positive,0.05236046666666668,Positive
+beer,lager,Have you ever had a Czech lager? Did you like it?,,128,0.0,Neutral,0.0,Neutral,0.0,Neutral
+beer,lager,Fans of Olympia All Malt Lager,"Olympia Brewing brewed Olympic Beer in Tumwater, Washington. The company was sold to a few companies and now owed by AB InBev which is a conglomerate. They retired the beer around 2020.
+
+For those that have not tried it, it's one of the NW best old school lagers. Sure it would compare to a Budweiser, but this was all-malt. Straw color, crisp, decent number of bubbles, acceptable lacing for a lager and was cheap. You could refer to this as lawn mower beer or a beer you could kick back with your buddies or bring fishing like a Hamms.
+
+There is a lot of history of this beer. In comparison you can still get its cousin, which is Rainier lager, but no longer brewed in the State of Washington to get an idea of what the brewers made back in the day before most of us were born.
+
+Good news is there are two brewers that is brewing this beer. Locations below.
+
+[ Products « Great Western Brewing Company](https://gwbc.ca/our-beers)
+
+[Kuenstler Brewing - Beer](https://kuenstlerbrewing.com/san-antonio-kuenstler-brewing-beer)
+
+",7,0.9559,Positive,0.3243589743589744,Positive,0.6446103935897435,Positive
+craftbeer,IPA,I'm convinced this is the best IPA out.,"New to this page! Hello.
+
+I have been trying a lot of craft beer lately, and Bell's Two Hearted Ale just blew my mind.. 
+With all the IPA's out right now, for this one not have a ridiculous ABV content, taste amazing, gives me a great buzz after a couple of them and doesn't feel super heavy on my stomach, this one takes the cake in my personal opinion. 
+
+Anyone know other IPA's (American IPA or not) that someone like me may like?
+Also I'm in North Carolina.
+
+Thanks and Cheers",377,0.9266,Positive,0.11926406926406928,Positive,0.7200774116883117,Positive
+craftbeer,IPA,What hazy IPA breweries do I need to try?,"I’ve tried a lot since Covid, through travel and trades and here local, I’ve definitely honed my palate for hazies (Pilsners, too). I’d like to try new ones as I sit here and enjoy a Monkish, something I rarely get being here in Georgia. Here’s a partial list of the big ones (some I’ve definitely omitted for brevity) I’ve had. What should I try? I’m willing to trade, travel, ship… whatever. I’d just like a list of ideas, please.
+
+
+Fidens
+Monkish
+Root + Branch
+Tree House 
+Trillium
+Fox Farm
+Foam Brewers
+Lawson’s
+Bissel Brothers
+Parish
+Other Half
+Brujos 
+Electric 
+Vitamin Sea
+Civil Society
+Old Nation
+Toppling Goliath 
+Messorem 
+Stoneface 
+More
+Hop Butcher
+Equilibrium
+Hill Farmstead",175,0.9442,Positive,0.09959207459207461,Positive,0.6132278438228438,Positive
+craftbeer,IPA,"I feel like these IPA's are just mass produced Original Recipe 4 Lokos with a ""Craft Beer"" masks on..","So I tried some of these.. and they were brutal to me, to each their own but this just doesn't feel right 😆 
+Who drinks these things? 
+
+Thanks and Cheers 🍻",151,0.5838,Positive,0.05267857142857142,Positive,0.36629341785714287,Positive
+craftbeer,IPA,The Hazy IPA selection here is incredible.,,1943,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,18.4% IPA strong at first but then it gets smooth I’m buzzed off one beer 🐝 🍻,,129,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,Beers like Tree House/Trillium NE Hazy IPA's,"I have the good luck/misfortune of living in Massachusetts, and quite close to both Trillium and a Tree House Brewing location. With Tree House alone, I used to be spending $200-300 monthly on their delicious hazy IPA's. This is making a sizable financial dent.
+
+To broaden my horizons, are there any macrobreweries that have brews with a similar flavor profile and mouthfeel as these juicy, hazy NEIPAs like Julius/Haze/Green by Tree House or Melcher St/Commonwealth Ave by Trillium?",23,0.7964,Positive,0.425,Positive,0.6247461,Positive
+craftbeer,IPA,Foam has the creamiest IPAs I’ve ever had.,"Foam Brewery’s in Vermont has the steamiest beer I’ve ever tasted. It legit tastes like nectar from the gods. That’s all!
+",135,0.4199,Positive,0.0,Neutral,0.23829325,Positive
+craftbeer,IPA,"Does anyone else say that they will never buy an old IPA again then every so often you buy one, take a sip, and say “I know that funky taste”?",Then “Hello darkness my old friend” starts playing ,37,-0.0516,Negative,0.1,Positive,0.0250954,Positive
+craftbeer,IPA,What’s your favorite seasonal beer this time of year?  Mine has been Sierra Nevada Celebration Fresh Hop IPA. ,,133,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,What’s your Mount Rushmore of IPAs?,"
+",49,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,Best ipa/pale ale under 6 percent?,"I’ve recently taken a little over a month off from drinking. I can’t do more than 1 ipa over six percent without feeling crappy the next day, at the moment (trying NOT to build a tolerance again lol). What are your go to session iPas or pale ales under 6 percent? Of course there’s All Day and Lawson’s Super Session, stuff like that, but I’m wondering if there’s others, maybe between 5-6 percent? I’m heading to a friend’s tonight and we’ll definitely have a few beers so any recommendations would be appreciated. I’m in NY. Also, just curious if anyone else enjoys the lower alcohol beers.",7,0.9658,Positive,0.10325757575757576,Positive,0.5382704893939393,Positive
+craftbeer,IPA,Favorite IPA,"Fairly new to craft beer, but out of all the IPA's I've tried so far Two Hearted is definitely my favorite 🍻",140,0.8201,Positive,0.24545454545454545,Positive,0.607366090909091,Positive
+craftbeer,IPA,"Reddit IPA lords, bless me with a great hazy IPA. ","I have only had cheaper options, like voodoo ranger and athletic brewing’s na freewave, but I love them. I feel like this subreddit has better suggestions for me. Price isn’t an issue, someone wanna wow me? Chicagoland area for reference. ",8,0.9676,Positive,0.275,Positive,0.6262704,Positive
+craftbeer,IPA,How can you tell a hazy IPA is past its best by date? ,"No date on can, got it for $5 at a beer/smoke shop. I asked the owner why everything was five bucks in the cooler and he said he wanted to get some fresh beers in. I knew they’d be out of date and some with a printed on date where from 2023 lmao. 
+
+I honestly just wanted to try one, decided on a WW blurry. I haven’t had this beer fresh and I’m fairly new to craft beer, what are some tall tell signs that the beer is old? ",63,0.836,Positive,0.3393939393939394,Positive,0.6247218787878788,Positive
+craftbeer,IPA,Sierra Nevada Celebration IPA Ranking,"I've noticed in the last few weeks there has been a lot of reviews and quite a bit of hype online about the Sierra Nevada Celebration IPA. I did try it a few years back, was mildly impressed, but wouldn't say it was great. The untappd gives it a 3.7, so what gives? Is SN just pushing the marketing on this a little harder this year?",22,0.8426,Positive,0.13906249999999998,Positive,0.5016295375000001,Positive
+craftbeer,IPA,"Black IPA is the most underrated, most unused style in craft brewing. Change my mind.",,455,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,Hazy IPA's. Deal. With.It,"Instead of hijacking the weekly 'I'm over/There's too many/Cant they brew anything other than/How Long Must I Suffer Under the Cruel Reign of..  Hazy IPA's/NEIPA's ' thread, I'm going to steal the soap box.
+
+As someone who has been seeking to drink something other than mass produced American Lagers for upwards of 30 years now, I am unable to read any of the aforementioned threads without hearing the worlds tiniest violin underscoring the entire post.
+
+Scroll through the history here or perhaps on one of the beer tracking apps and jot down the beer types. When you've reached six, you've exceeded the variety that your average liquor store carried 30 years ago, that grew by another 6 to 10 over the next decade and then by early-2000's the micro-brewery model started to take off in earnest and leads us to now, today, where you can buy any Ale, Pale Ale, DIPA, DHIPA, DDHIPA, TIPA, Pilsner, Kolsch, Witbier, Belgian,.. well not going to list all 230 types the 'filter by style' on Untapped shows currently.  Compounded by the 'aged, aged on, flavored with.. anything.. literally anything' that applies to a good majority of those types. There ends up being some options.
+
+So with that abundance never before experienced by humanity and the ability to order beer freaking online and have it delivered to your doorstep… ffs. 
+
+Deal with it.
+
+edit: had this sitting in my drafts folder from writing this after a string of threads of that nature last year and should have fired it off then or at least during the airing of grievances/Festivus window. As that has since passed, admittedly could have been a bit more zen. I'd be fine with the 'cant we have more variety' aspect if it wasn't coupled with the judgy BS, some of which is evidenced here.  Its an absolutely magical time for beer, be thankful.",260,-0.7351,Negative,0.026135265700483083,Neutral,-0.44664778260869564,Negative
+craftbeer,IPA,The IPA Headache,"Does anyone else get an ‘IPA headache’?
+
+It is suspected that the IPA headache is due to a reaction to certain hops. I can believe this as I tend to avoid hoppy ales favouring stouts, porters and impy stouts. I can drink 10-13% abvs all afternoon and wake up fresh as a daisy the next day, but just one IPA or Belgian blonde like Duvel or cheap larger my head is pounding by morning.
+
+Are there a known hops that have this affect or is it specific to the individual and the hops? Or is it something else like a specific ingredient in the ale?",21,0.8334,Positive,0.07892857142857143,Positive,0.4657437357142857,Positive
+craftbeer,IPA,Finally finished my IPA can's frame,"This is my 6-years old collection, primarily consistent of IPA.",200,0.0,Neutral,0.175,Positive,0.105,Positive
+craftbeer,IPA,"Other Half has ruined me for ""regular"" IPA's.","These guys can't seem to make anything but exceptional IPA's. This one tastes like a mimosa, but with enough distinctive hop notes to remind you that you're drinking beer not a cocktail. ",91,0.5023,Positive,0.3333333333333333,Positive,0.45583798333333325,Positive
+craftbeer,IPA,Homebrewed Hazy IPA (Recicpe too!),"Heres my homebrewed NEIPA called Rainbow Dream. It's going to the National Homebrew Comp this week so wish me luck.
+
+Recipe for the fellow homebrewers here:
+https://docs.google.com/document/d/1Xcs8IhnplXjARJAgIvoGZQQXcDDngrS1sJr1q3yBPuw/edit",88,0.8296,Positive,0.0,Neutral,0.45130240000000005,Positive
+craftbeer,IPA,Enjoying a classic - Stone Hazy IPA,,121,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,"Troon x Brujos - War-Dead Catacombs, billed as a ""Sessionable ""West Coast IPA""... lol",,66,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,"One of my go to IPAs, AKA ""Gas Station Beer"" ",,168,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,too many IPAs,"the preponderance of ""hazy"" and groovy etc etc IPAs is making me sad since im a dark amber/lager kind of person. feel like a fish out of water at pretty much every beer store in my local NE US area. im just bitching about it, honestly, but that's my story. ",0,0.3071,Positive,0.14285714285714285,Positive,0.22497857142857142,Positive
+craftbeer,IPA,Best IPA’s in Colorado? ,I’m going on a weekend trip to colorado soon and it’ll be my first time there. There appears to be quite a few breweries there and I was wondering it any of them is particularly known for their IPA’s or if any of you had specific recommendations. We’ll be staying around denver/ boulder/ fort collins. ,6,0.0,Neutral,0.05416666666666666,Positive,0.02724583333333333,Positive
+craftbeer,IPA,Celebrating the New Year with a Celebration IPA,,83,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,Heady Topper on Ice      Imperial IPA 8% ABV 🍺,Was just gifted this at work. Never heard of it but it’s rank #1 imperial IPA on line. 🤔 ,109,0.0,Neutral,-0.15000000000000002,Negative,-0.08317500000000001,Negative
+craftbeer,IPA,What are your top 3 Triple IPAs?,The Waldo’s from Lagunitas is probably my favorite but this is a close second!,76,0.3164,Positive,0.25,Positive,0.3047232,Positive
+craftbeer,IPA,If IPAs were Christmas movies,,1064,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,Hazy IPA Pinter,"Tapping this beauty this weekend, l’ll keep you posted",9,0.5859,Positive,0.0,Neutral,0.29558654999999995,Positive
+craftbeer,IPA,West Coast IPA vs NEIPA,Which do you prefer? I'm in Upstate New York and kind of tired of hazies... I miss all the dank bitter West Coast IPAs I used to have on the West Coast.,34,-0.7645,Negative,0.059090909090909076,Positive,-0.3646965,Negative
+craftbeer,IPA,can you say IPA?,,272,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,Hey everyone I'm in Quebec Laval and I'm looking for the most refreshing IPA after dry January ends :D,"So I'm a bit a lover for ipa myself and I'm starting to drink only craft beer if I can and I was wondering , what is a really refreshing ipa that you can drink one big sip and be like waw this is beautiful. Keep in my i live in Quebec (Laval) which is in canada for those who don't know and I have couples of craft beer shops close to me so shoot your shot. Also I'd just love to try new beers 😁",2,0.9358,Positive,0.26534090909090907,Positive,0.6017715954545455,Positive
+craftbeer,IPA,What's the best IPA you've ever had?,"The name says it all- the IPA is the darling of the American craft beer scene, but what is the best one you've ever had? West coast, east coast, northeast, rye, black, English- anything goes! 
+
+Personally, my favorite IPA is Foundation Epiphany. It has such a perfect balance of flavors without being too overwhelming on the hops.",59,0.9615,Positive,0.3541666666666667,Positive,0.6966455,Positive
+craftbeer,IPA,Two Hearted American IPA - ABV 7% -  Bell's Brewing,,136,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,Black IPAs are the best IPAs but shouldn't be called IPAs,"I realized that I really like Black IPAs, the maltiness really adds the body that many IPAs seem to lack. 
+But they should've been called Cascadian Dark Ales like they were originally ment to be. It's because we're living in the IPA Era, and it's easier to sell if you call it IPA, but they don't quite fit the standards an IPA drinker looks for, and the labeling might ward off IPA haters.
+
+I feel like Cascadian Dark Ales are the missing link between  pale ales and barleywines.
+
+EDIT: 
+Through these comments I learnt about the existence of Vermont's Black IPA by Noonan, brewed in 1994, and was called ""Black IPA"".
+What a shocking turn of events.",148,-0.4928,Negative,-0.04115384615384613,Neutral,-0.30648950769230765,Negative
+craftbeer,IPA,Is the huge popularity  / hype of the IPA styles a poisoned gift for the craft beer scene / beer lovers?,"Based on the huge popularity of IPA / NEIPA / DIPA etc (certainly also in this reddit) it may be ""controversial"" and ""risky"" to ask the question but here it comes.... Is the style becoming or has it become too dominant / popular and too hyped? I drink beer since 30+ years and started with pils, flemish red and strong Belgian blond beers. 15 years ago it was nearly impossible to find IPA beers in Belgium, not in the bars, not in shops.  I would be lying if I said it's my favourite style but I do drink IPA beers several times a month.  Over the last couple of years lot's and lot's of European breweries have stepped in the US footsteps and made their own IPA beers that are often mediocre and interchangeable.  Seeing copy after copy is getting a bit boring.  What makes it worse in my opinion is the fact that, based on what I am reading here on this reddit, in the US the IPA style has taken over most of the (craft) beer shelves space.  Making it harder to find other styles.  Lot's of brewers stopping with quads or tripels etc. In other words, less styles, less different kind of flavours due to the IPA boom of the last 10, 15 years? ",0,-0.4956,Negative,0.03890476190476189,Neutral,-0.22834761904761905,Negative
+craftbeer,IPA,See a lot of ipa/imperial stout in here but anyone else have a saison problem?,"Over the last few years I've moved away from hoppy beers into saison and lager. Most of the bottles head to the beer fridge and just kind of stack. Cracking this Wandering Bine from Threes Brewing tonight, drinking really nice. Crispy, grassy with a little barrel and funky dry finish. Highly recommend.",170,0.6956,Positive,0.17572916666666666,Positive,0.5097275625,Positive
+craftbeer,IPA,Buoy Beer - IPA,,29,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,Caldera IPA,"Really solid old school West Coast IPA, never had it before. Spicy, bitter, dank, very solid. I think traditional PNW IPAs are one of my favorite beer styles",49,0.4563,Positive,0.08333333333333333,Positive,0.2830376833333333,Positive
+craftbeer,IPA,Treehouse... It's Not Just IPAs,Nomad  Oak Czech Dark & Remote Kellerbier,146,0.0,Neutral,-0.125,Negative,-0.071625,Negative
+craftbeer,IPA,What abv do you guys prefer you’re IPAs?,"What’s your chosen range if you had to decide (I get there are lots of variables)?  I often think the triple IPAs are ridiculously alcoholly, but I recently had an east coast style where sweetness and hoppyness balanced everything out and it was shockingly good.  But otherwise I don’t like the booze taste being distinct like in many 8.5%+",13,0.9274,Positive,0.2333333333333333,Positive,0.5879114333333333,Positive
+craftbeer,IPA,Let me drink my IPA in peace,,847,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,Eyes of the World IPA - Ever Grain,,49,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,Juice Force IPA 9.5%🍊🍺,,0,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,Forget Session IPA’s. Let’s get some good Pale Ales please. PSA.,Above ^,60,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,IPA,Probably the 2nd best IPA out of Pennsylvania,"
+As a followup to my original post:
+
+https://www.reddit.com/r/CraftBeer/s/xcBuLi3oAJ
+
+I present the 2nd best one out of good ole penn state",32,0.8555,Positive,0.41500000000000004,Positive,0.6555780000000001,Positive
+craftbeer,IPA,Treehouse triple IPA,Imagination and Ambition (Triple IPA).  If beer at 9% and super viscous but nice. Lots of Citra. ,61,0.7311,Positive,0.4666666666666667,Positive,0.6354152166666667,Positive
+craftbeer,IPA,Sierra Nevada Northern Hemisphere Wet Hop IPA,Recently had one of these on draft in Mills River. Yummy.,86,0.5267,Positive,0.0,Neutral,0.2859981,Positive
+craftbeer,lager,My beer drinking has shifted into 90% lagers and pilsners. ,,193,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Kirkland Signature Lager (Deschutes Helles Lager) ,"Has anyone tried this? It's surprisingly good, I'm really happy to see Deschutes is currently making the Kirkland Signature beer, hopefully they can keep up with the demand. Only $13 for a case of 12.",131,0.8832,Positive,0.375,Positive,0.7115121,Positive
+craftbeer,lager,"Stackable design I did for Levante Brewing, a delicious Czech Dark Lager",,284,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Any favorite lagers in SoCal?,Specifically LA. Thank you! ,10,0.4199,Positive,0.0,Neutral,0.2120495,Positive
+craftbeer,lager,Lager Lager Lager Lager ,,166,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,A Japanese Lager… brewed in San Diego?!,"Pilsner Malt, Puffed Jasmine Rice, Toasted Rice Flakes - 5% ABV 
+
+Awesome dry open, with a creamy yuzu sweetness-like finish. Almost like it’s honoring a Hanger 24 Hef. But dry like the Japanese like it. 
+
+Great pair with sushi involving tempuras, meditterranean/indian lamb, poutine. 
+
+I wonder if that one dude with the craft beer bar in Japan would serve this beer. I think it gives Sapporo & Asahi something to think about! 
+
+I love watching the Craft Beer Channel on YouTube. Two UK blokes, one who suspiciously looks a lot like Matt Berry (“What We Do In The Shadows”), talking literally about every aspect of beer. 🍻
+
+Vape is Heavy Hitters Northern Lights.
+Yes, cannabis indica. 🌴🔥💨 r/thcarts ",70,0.9765,Positive,0.2708333333333333,Positive,0.6673233333333334,Positive
+craftbeer,lager,Human Robot Polotmavy 12 Czech Style Garnet Lager,Cheers!,29,0.5255,Positive,0.0,Neutral,0.27036974999999996,Positive
+craftbeer,lager,“Lagers will be popular this year!” Got better? Post it!,,110,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Ikebana Japanese-style Rice Lager from Cigar City,,11,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Bones Shirt Black Lager - Suarez Family Brewery ,,70,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,"Kvidera, Czech Pale Lager-Widowmaker Brewing",These folks do much more than haze. ,13,0.0,Neutral,0.5,Positive,0.25325,Positive
+craftbeer,lager,Decent Dark Lager,"Prince Eddy's Brewing Company, Ontario CA  Dunkel Lager 
+Visiting my parents and couldn't resist my Dad's nerdy whisky bullets and a stone. Thought it looked ok with my late, distinguished boy John. ",2,0.25,Positive,0.1,Positive,0.17534999999999998,Positive
+craftbeer,lager,Tasty lager,One of the best lagers I've ever tasted!,6,0.6696,Positive,1.0,Positive,0.8398088,Positive
+craftbeer,lager,Just a clean lager,"These guys stepped up recently and started doing a lot of collabs since last year, beer has been on a solid upward climb since July",15,0.1531,Positive,0.0,Neutral,0.07769825,Positive
+craftbeer,lager,"Smooth, malty South African lager",,15,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Magnanimous Brewing Company Zurg Czech-Style Lager,,17,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,"Deschutes Brewery snapped w/ this 4.5% Kirkland Contract Helles Lager! | Bend, Oregon","Now at some Costcos. 
+
+What do ya’ll know about Deschutes? 
+Apparently this beer was a 2023 Great American Beer festival gold medalist! 
+
+Great wintery crisp snappy finish. 
+
+Edit: wow, they actually entered it into the competition as “Prinz Crispy”, which matches my taste profile. ",27,0.9476,Positive,0.2857142857142857,Positive,0.6333068857142856,Positive
+craftbeer,lager,A rare lager from Third Moon. ,Killing Me Softly.  ,19,-0.6597,Negative,0.1,Positive,-0.28516715,Negative
+craftbeer,lager,Home brewed double decocted Vienna Lager,Perfect for a hot day. ,1,0.5719,Positive,0.625,Positive,0.5990484499999998,Positive
+craftbeer,lager,Aechtes Dunkel. Brauhaus Riegele. Lager - Munich Dunkel. 4.9% alc. 16 IBU. ,"
+Very fine and soft. Flavors of toasted malts and caramel. Notes of dried fruits and black plum. Sweet at all times, with almost no hops, although curiously they are not missing. A German dunkel that, although not sober, is very good.",17,0.8056,Positive,0.1485,Positive,0.48515984999999995,Positive
+craftbeer,lager,"Nothing but light lager filtered through rosemary, sage and bilberries. Podgórz Brewery at Warsaw Beer Festival.",,260,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,"Tasty lagers from Hanabi in Napa, CA","Heard good things and was impressed by the subtle notes, well balanced. Bit pricey at $15/500ml but worth trying especially if you enjoy lagers.",36,0.8909,Positive,0.3444444444444445,Positive,0.6399084222222223,Positive
+craftbeer,lager,Probably the best pale lager I’ve had. ,Present floral notes over crisp bready undertones. Exceptionally light and smooth. So drinkable it’s scary. ,11,-0.5367,Negative,0.11000000000000001,Positive,-0.21569684999999997,Negative
+craftbeer,lager,Highland Park Brewing | Fresh Hop Pilsner | Amber Lager,,52,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Notch Black Lager,Starting the evening with something dark but not too strong (yet). Very nice roasted malt without being too heavy.,8,0.1497,Positive,0.1726666666666667,Positive,0.1624728,Positive
+craftbeer,lager,"Fantastic Pilsner by Hanabi Lager Company Napa, CA",This Pilsner is crisp and dry but the malt bill is much more pronounced than most Pilsners I’ve had. Highly recommend for lager fans. ,14,0.5704,Positive,0.26866666666666666,Positive,0.4254068,Positive
+craftbeer,lager,The Seed - Seeds of the Ocean (Pale Lager w/ aged hops & marigold 5.1%) ,,41,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,"San Diego - Czech Pils, & Lagers","Any good recommendations for these around San Diego. I’ll mainly be in South Park, or PB.
+
+Mainly looking for something like Bierstadt in Denver if anyone has had them. 
+
+Or just and bar you think is a can’t miss. 
+
+Thanks for the help and excited to be back in San Diego to enjoy your craft beer and weather. ",1,0.9325,Positive,0.2869047619047619,Positive,0.6103120833333332,Positive
+craftbeer,lager,One lager for good night,,16,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Getting into Rye Whiskeys and saw this. It’s a chewy lager with some sweet tones. ,,12,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Approach by Banded Peak Amber Lager 5.1%,"Pretty damn good!! I'm.generally not a huge fan of some of the beers I've tried by this brewery but latley they been really surprisingly me.
+I'd buy this again ....maybe a 6.5 or 7 out of 10",6,0.6201,Positive,0.4375,Positive,0.5319727999999999,Positive
+craftbeer,lager,One of the best cheaper craft lagers of all time. Fight me.,,0,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Birdsmouth - Dark Lager (5.2%) ,,16,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Birdsmouth - Original Lager  (4.6%) ,,14,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Stillwell 12° Amber Lager,"This special Christmas release from Stillwell is very nice. Smooth, crisp, clean, medium-bodied with subtle floral notes. Not what I was expecting but a welcome detour from the typical ambers. ",6,0.8292,Positive,0.30672619047619054,Positive,0.5713708738095239,Positive
+craftbeer,lager,Sky Dog a different Lager,Wiseacres Sky Dog.... 4.5%  just marvelous after cutting the yard. ,25,0.5106,Positive,0.2,Positive,0.3641825,Positive
+craftbeer,lager,Avling lager and Rorschach IPA @ Moms Basement TO,,8,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Going on a hike peeping the fall colors & enjoying a good beer from Avery Brewery- The Kaiser Imperial Oktoberfest Lager (8%ABV),,14,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,A little Czech lager a lil DDH dipa,"I was in Philly I few weeks ago and this is my last can of this beer, as for the Marlowe DIPA I picked these up a few days ago. Both delicious beers. Highly recommend.
+",28,0.7574,Positive,0.152,Positive,0.4674316,Positive
+craftbeer,lager,"I for one, am very happy with this current trend in craft brewing. The Czech lager",,212,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Foam Brewers - Japanese Style Rice Lager,"Super crisp, tiny amount of sweetness like rice puffs. I'm loving this style. Had the Kanpai by rek'· lis brewing and I think I like this one better. ",10,0.9578,Positive,0.3366666666666666,Positive,0.6537056666666666,Positive
+craftbeer,lager,Any love for dark lagers?,,84,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Who makes the best Helles Lager that can be ordered online? ,I had Adroit’s helles and it was great. Can anyone recommend amazing helles and German lagers in general that can be ordered online? ,1,0.886,Positive,0.36250000000000004,Positive,0.6248742499999999,Positive
+craftbeer,lager,At what temperature do you prefer and recommend drinking a beer to feel the flavor well? here they recommend drinking the lager very cold,,0,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Belching Beaver Brewery - Día De Los Deftones/Mexican Style Lager.,,5,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,"Nightmare | @nightmarebrewingco 🍺 ᴅᴇғᴇɴᴇsᴛʀᴀᴛɪᴏɴ ᴏғ ᴘʀᴀɢᴜᴇ | Bohemian Pilsner w/ Kazbeck hops, fermented & lagered on French Oak 🍻 5.4% ABV | 🔥🔥🔥 ",,12,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,"Fifty-Six Counties American Light Lager by Kettlehouse Brewing Co. in Missoula, MT. I understand this is the first time they’ve done this style and really like this as a summer beer out on the patio.",,16,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Cerebral Rice Lager. ,With a Gamma Knife sidecar. ,15,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Mexican lager,,7,0.0,Neutral,0.0,Neutral,0.0,Neutral
+craftbeer,lager,Human Robot- Czech dark lager,,188,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,Why in the hell do people like ipas?,"I got 4 different highly rated IPA's from my local store today to try instead of just having my usual lager, and I have to say Jesus Christ how do y'all drink that garbage 😭 I am drunk and yet it still tastes awful, I must have an iron-cast stomach to be handling these lol.",42,-0.6908,Negative,-0.11285714285714284,Negative,-0.41870537142857145,Negative
+alcohol,IPA,Why do so many people dislike IPA's???,,31,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,What is the stereotype for IPA drinkers?,,0,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,"These ipa’s monkeys don’t play lol, this is my all time favorite beer. P.s what’s everyone drinking today!",V,17,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,My Taste Has Changed—From IPAs & Barrel Proof to Lagers & Speyside Scotch,"I’ve noticed a big shift in my drinking preferences over the years, and I’m curious if anyone else has experienced something similar.
+
+I used to be all about the bold flavors—hoppy, resinous IPAs and high-proof, barrel-strength bourbons were my go-to. I loved the intensity, the complexity, and the punch they packed. But lately, I find myself reaching for something more refined and easygoing.
+
+These days, I’m really enjoying crisp lagers and pilsners—clean, refreshing, and perfect for kicking back without overwhelming my palate. And when it comes to whisk(e)y, I’ve been gravitating toward Speyside and Islay Scotches. There’s something about their smooth, honeyed, smokey, and slightly fruity profiles that just hits right.
+
+Has anyone else gone through a similar transition? Maybe it's palate fatigue, or just evolving tastes...
+",1,0.9534,Positive,0.289021164021164,Positive,0.6218317925925925,Positive
+alcohol,IPA,"If I'm bitter later, it's because I am what I eat/drink. First time having an IPA after only have Corona before (at least for beer)",,4,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,Why are IPAs so effective ,Hey guys thought you guys might know the answer to this; I’m curious why IPAs are so consistently effective at getting me drunk compared to any other alcohol? I don’t know what it is but I feel way more drunk after 1-2 IPAs than most other alcohol like beer or mixed whiskey. This seems really strange to me because the effectiveness of IPAs seems to be disproportionate compared to their ABV. I could have 3-5 other drinks and not feel as drunk as I do after 1-2 IPAs. I’m not sure why this is but I’m wondering if you might have the answer.,3,-0.0729,Negative,-0.051923076923076926,Negative,-0.06259877307692308,Negative
+alcohol,IPA,Tell me IPA's you like and dislike.,"I'll go first.
+
+Likes: Fort George Westmore IPA (favorite), Fort George Magnetic Fields, VooDoo Ranger Imperial IPA. 
+
+Dislike: 10 Barrels Co. Apocalypse IPA. 
+
+The apocalypse IPA is awful. What a goofy, sickly bitter taste it has. It's not piss, it's vomit.
+
+I love some of the Fort George IPA's for their bold fruity tastes that do not offend my tastebuds or stomach. Their Westmore IPA is by far the best one I've tasted, while their Magnetic Fields IPA is similar but with a sweeter taste and hazier texture. ",0,0.7409,Positive,0.20833333333333334,Positive,0.4746166666666667,Positive
+alcohol,IPA,IPA vs Vodka,"Is this true for anyone else?
+
+On multiple occasions I’ll drink three 16.9 ounce cans of New Belgium Imperial IPA 9.0% and be set for the night. However on another night I’ll slam 8 shots of 1.5 ounce Tito’s Vodka with soda chaser (total 34 ounces of carbonated soda stream water) and go to bed nearly completely sober. 
+
+If I’m correct, math for total alcohol consumed
+IPAs 3x16.9x0.09 =4.563g 
+Vodka 8x1.5x.4=4.8g 
+
+Does anyone experience the same effect when drinking beer vs hard liquor?
+
+",2,-0.1431,Negative,0.0368371212121212,Neutral,-0.053237702272727276,Negative
+alcohol,IPA,I made a mistake on this specific IPA. Hope everyone else is drinking something they actually enjoy!,,39,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,Is Jameson IPA edition good?,I love Jameson whiskey but I've never tried the IPA edition and it has my interest peaked so I was thinking of getting a bottle for new years but I was wondering what others think of it,2,0.765,Positive,0.3181818181818182,Positive,0.5426740909090909,Positive
+alcohol,IPA,Do IPAs explode?,"Do i need to worry about refrigerating IPAs? I had 3 Infinite Ghost from Parish Brewing sitting out on my beer shelves. I noticed today an odd ""Soy sauce"" like odor only to find the three beers sitting in a pool of brown liquid. Beers were unopened on the top but must of had a small burst at the bottom since one can was half empty, and one was lighter than a full one. 
+
+I dont really have the fridge space, but should i be chilling all my IPAs? Ive had sours explode and know to fridge those, but never knew IPAs could as well.
+
+You learn and move on i guess lol",0,0.504,Positive,0.06666666666666668,Positive,0.2853333333333333,Positive
+alcohol,IPA,Why is everyone so obsessed with IPAs?,I've tried various IPAs and every time I try one it just tastes bitter and seems to lack any of the flavor profile advertised. I guess I'm just wondering what other people enjoy about them.,70,-0.2263,Negative,0.043750000000000004,Neutral,-0.09766425,Negative
+alcohol,IPA,Forgot how strong IPA's are,"It's been a little over a year since i stopped drinking, and dam, I forgot how stronge ipa's are. Drank one can of happy camper, and that was enough to make me feel woosh.",6,0.4215,Positive,0.2041666666666667,Positive,0.31471033333333337,Positive
+alcohol,IPA,"2-3 9.9% ipas per night and thinking of quitting cold turkey, is it safe?",I'm 23 and I've been drinking almost basically every night for the past year or so. I used to day drink twice a week when I was 21 and used to drink a cup of jack daniels every night when I was 22. Last time I went a night without drinking was back in November of last year when I had a pretty nasty fever. I'm scared to quit cold turkey because I heard of how deadly the withdrawals are and I have trouble sleeping. Any advice?,4,-0.7184,Negative,-0.2222222222222222,Negative,-0.47219235555555555,Negative
+alcohol,IPA,"I had a couple shots and an IPA at like 1pm and it's 8 now, I'm feeling lightheaded and dizzy. Is that normal","title. 
+
+I don't usually day drink its not like I have a problem I was just bored, but I'm wondering why i feel so off right now. The effects should have worn off a while ago and i don't feel drunk just weird.",0,-0.6429,Negative,-0.29285714285714287,Negative,-0.4678785714285715,Negative
+alcohol,IPA,6 pack a day of IPAs a day or every other; is it too much?,"I'm 22 and drink about a 6 pack about every other day of a 9.5% ipa for about a year now. I recently bought a handle of vodka and drank 2/3 in a few days. I still have 6 pack abs and can run 5 miles no problem, so I think Im healthy. All I hear about is so many college kids and people in the miltary drinking all thru college and barracks like it's a normal thing to drink at lot at my age, so I justify my drinking with my age. I guess my question is how bad in terms of physical health is it I drink this much? Seeing a handle over half empty within a few days really had me concerned. Thanks for any help guys, seriously appreciate it. ",0,0.8298,Positive,-0.004999999999999982,Neutral,0.4124,Positive
+alcohol,IPA,Got 2 double IPA’s and a triple and I chose them purely based on artwork,,5,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,Decided today to finally take the IPA plunge,,53,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,IPA,I just tried my first IPA and that bih was nasty,1,-0.5574,Negative,-0.375,Negative,-0.4666662,Negative
+alcohol,IPA,Why do IPAs make me sick so easily?,"I've had IPAs three times-- the first time I drank the whole thing and threw up that night. A week later I took 2-3 sips and stopped because I could feel it coming on again. Then I stayed away just to be safe-- over a year later I take a sip of a friend's by accident before realizing what it was and I was nauseated the entire night. No other beers or hard liquor hit me like that, and I can usually hold my alcohol just fine. Just curious.",9,0.2263,Positive,0.03229166666666666,Neutral,0.13045949583333333,Positive
+alcohol,IPA,Voltron IPA! Disappointment distilled. Nostalgic betrayal!,"&#x200B;
+
+https://preview.redd.it/vj26vbgmebbc1.jpg?width=3024&format=pjpg&auto=webp&s=263c5882c469f841113c976c7ceb3e511a143d61",2,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,IPA Lot when I drink alcohol.,,293,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,ipa’s are lowkey dust,,25,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,Favorite Costco IPA?,I live in California and always see the same local brewery pints everytime I go to Costco. I usually grab whatever has a higher Alc % but a lot of the stuff at my local store is sub 5%. Might as well drink water atp lol. My go-to is the Santa Cruz but every so often they’ll add something new like the one on the left. Wondering if anyone had any favorites that I haven’t heard of. Cheers 🍻,1,0.9549,Positive,0.1191919191919192,Positive,0.5375830055555555,Positive
+alcohol,IPA,One Minute beer review: Dogfish Head 60 Minute IPA,,58,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,"it’s 11AM in Los Angeles, too early for an IPA?",,111,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,Just me or can you never have too many slices of lime in a beer? this is a Hazy IPA Harland Brewing out of San Diego CA,,35,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,M(27) drinks a few double IPAs in a sitting. When I drink beer my urine is clear. When I don’t and drink a lot of water my urine is dark yellow..? I drink about 3 nights a week. About 4 8% beers 3 nights a week,,0,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,Replacement for IPAs,"Hello everyone! So, I just had bariatric surgery a few months ago and am about at the point where I can have alcohol again. However, when I used to drink, I was primarily an IPA kind of gal and I can't have anything carbonated for around a year. I was wondering if there were any suggestions for drinks that would have a similar flavor, but not be carbonated?",8,0.0,Neutral,0.2,Positive,0.1008,Positive
+alcohol,IPA,"If you like the taste of IPA’s, you got fuckin problems my dude I’m sorry 😭",Not trying to be disrespectful but drinking robitussen is easier 😭,0,-0.1154,Negative,0.0,Neutral,-0.0577,Negative
+alcohol,IPA,BEST IPA GLASS/MUG?,"I recently just ordered this MUG online. Has anyone used something like this before and will my IPA tatse good in this still
+
+https://www.homewetbar.com/gallant-gunmetal-personalized-beer-mug-p-1873.html?utm_source=homewetbar_blog&utm_medium=link&utm_campaign=11_ipa_beer_glasses",2,0.6597,Positive,0.35,Positive,0.5058597,Positive
+alcohol,IPA,Some YAY! IPA on this Thirsty Thursday. Cheers !,,36,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,Double fisting some Yay IPAs from Common Space brewery. (It was an accident on them btw) I’ll take the extra round on the house.,,9,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,Hazy IPA’s,"I know there is better subreddits to talk about craft beer and what not but I hope this subreddit will go back to what it once was
+
+What are some of y’all’s favorite Hazy IPA’s? I have been on a real kick lately",1,0.4293,Positive,0.18,Positive,0.30495464999999994,Positive
+alcohol,IPA,When at the beach have a bunny with a chainsaw. A double dry hoppy hazy IPA.,,5,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,"Found this little gem from Parish Brewing Company while visiting the French Quarter in New Orleans, Louisiana. It's a fantastic hazy IPA with notes of tropical fruit and citrus-forward hop varieties!",,5,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,1 minute beer review of Coney Island Merman IPA by guy who knows nothing about beer,,60,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,Cheers! Here is “Lunar Kitten” from Los Angeles Ale Works. A SMOOOOTH IPA.,,12,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,I feel pretty buzzed after drinking a 12 oz can of 8% alc IPA in about 10 minutes,Does this mean I'ma  lightweight??? I'm 18M and pretty new to drinking,2,0.5775,Positive,0.024621212121212117,Neutral,0.3016627272727273,Positive
+alcohol,IPA,HIIIIII I am feelin so good rn fr. Ty IPAs,,0,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,1 minute beer review: Founders All Day IPA by guy who knows nothing about beer,,64,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,So today we have Golden Road Ride On Hazy IPA! Has a hoppy Orange Bang flavor and extremely smooth from start to finish. A must try this summer. Cheers!,,5,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,“Chubby Unicorn” brought to you by Common Space brewery. A “guava milkshake” flavored IPA.,,4,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,Jamo and some ipa,Drank like 12 halo shots and 10 ipa pints…. I’m a little wacked. All yummy though.,2,0.6845,Positive,-0.1875,Negative,0.248997,Positive
+alcohol,IPA,How long does Sierra Nevada Hazy Thing IPA Last?,"Just bought this beer yesterday that was packaged in December 2021. 
+
+How long would it last in the fridge, and how long outside of the fridge behind a cabinet?
+
+Also, how long until it has to be thrown out and is dangerous for consumption?
+
+Much appreciated, this is the first beer I bought and want to ensure I am keeping it in safe conditions.
+
+Cheers!",2,0.8674,Positive,-0.007499999999999995,Neutral,0.4308099,Positive
+alcohol,IPA,Not much of an IPA guy but it’s aight,,22,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,MoonPirate IPA Releases June 26 And Rum Coming this September,,37,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,Green Bastard IPA,,29,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,IPA,The only 6pack I’ll obtain #IPA,,3,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,The Efes Lager Pyramid event that no one talks about,,6,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Cans of lager,Is it better to drink 8 cans of 3.5% or 4 cans of 5.5% as I'm being told u drink too many cans a night but 3.5% don't do much 🤔 ,1,0.2382,Positive,0.39999999999999997,Positive,0.31941909999999996,Positive
+alcohol,lager,My Taste Has Changed—From IPAs & Barrel Proof to Lagers & Speyside Scotch,"I’ve noticed a big shift in my drinking preferences over the years, and I’m curious if anyone else has experienced something similar.
+
+I used to be all about the bold flavors—hoppy, resinous IPAs and high-proof, barrel-strength bourbons were my go-to. I loved the intensity, the complexity, and the punch they packed. But lately, I find myself reaching for something more refined and easygoing.
+
+These days, I’m really enjoying crisp lagers and pilsners—clean, refreshing, and perfect for kicking back without overwhelming my palate. And when it comes to whisk(e)y, I’ve been gravitating toward Speyside and Islay Scotches. There’s something about their smooth, honeyed, smokey, and slightly fruity profiles that just hits right.
+
+Has anyone else gone through a similar transition? Maybe it's palate fatigue, or just evolving tastes...
+",1,0.9534,Positive,0.289021164021164,Positive,0.6218317925925925,Positive
+alcohol,lager,"I’m soon gonna have my first beer, I’m 5’2 and skinny, so a proper lightweight. Is there any chance I’ll throw up from 1 pint of lager?",I hate throwing up ,1,-0.5719,Negative,-0.8,Negative,-0.68663595,Negative
+alcohol,lager,19 Crimes Red Blend (Red Wine) and Miller High Life (Lager Beer) Review/Impressions,"https://preview.redd.it/i3puzrsjq19d1.png?width=3072&format=png&auto=webp&s=eacaae74755ed121134821e28a15de4671092fe7
+
+19 Crimes is good, it may be a tie with Joel Gott Cabernet Sauvignon in terms of what I prefer. 19 Crimes is very smooth, some ripe berry notes, hints of sweetness somewhat accurate of what is written on the bottle but subtle, and a less toasty butter texture that's a little less prominent. $12 for the bottle, Joel Gott is $11 - $12 but I have not seen it at the convenience store yet.  
+
+  
+Thank you so much to those guys recommending me Miller High Life! I like it more than Pabst Blue Ribbon. It is more similar than I anticipated. It has around the same level of creaminess in the texture but with more sweetness and longer lasting carbonation. It's good. I will be able to enjoy this on every occasion. If this is not available for purchase I will take PBR or some random IPA that catches my attention. PBR is cheaper ($7 vs $11 for a 6 pack 16Oz). Of course prices in your area may vary.
+
+  
+Some interesting IPA's have shipped to my local convenience store, so that is probably next in the coming weeks! I've been really liking IPA's.",2,0.9869,Positive,0.18330128205128207,Positive,0.5862708423076923,Positive
+alcohol,lager,Substitute for Ale/Lager?,"So I did an inflammatory test and apparently have a high inflammatory reaction to Ale’s and Lager’s. My go to drink’s are McUltra & Corona.
+
+Any good recommendations to try when I want to drink? ",1,0.4939,Positive,0.3033333333333333,Positive,0.39901528333333325,Positive
+alcohol,lager,Is Tennent’s Lager Popular Outside Scotland?,,2,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,"He drinks a Whiskey drink, he drinks a Vodka drink He drinks a Lager drink, he drinks a Cider drink He sings the songs that remind him of the good times He sings the songs that remind him of the better times",,6,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,1 minute beer review: Yuengling Lager,,44,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,"Anyone ever tried this? Any lager (Corona is best), tequila, and lime juice. It's like a healthyish margarita mixed with beer, and I love it! Trashy, but actually good",,100,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Lime salt lager and an amazing margarita cocktail with tajin rim!!,,116,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,difference effects... lager vs guiness,"hi all,
+
+just wanted some thoughts and opinions.
+
+when i drink guiness, i end up being really placid, maleable, chilled, can be more anxious also.
+
+  
+as soon as i switch to a lager (budweiser for example), i immediately become energised, ramped up, can be boisterious, and can also feel i am invicible.
+
+anyone know why i may have such contrasing effects?
+
+the lager i feel is too much, i like the positive aspects (which can actually be viewed as negative... e.g. over confidence, no anxiety, overly energised), but the negative stuff is not good. lager i am more likely to feel regret about my actions the next day. maybe not if i had stayed on guiness all night.
+
+&#x200B;
+
+thanks all",2,-0.5341,Negative,0.009090909090909097,Neutral,-0.2630295545454545,Negative
+alcohol,lager,Tried some CN Tower lager it’s good so far and it’s only sold in the CN tower itself,,12,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,1 minute beer review: BOSTON LAGER,,40,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Can't stand the taste of lager but...,"Hi all!
+
+So for as long as I remember by Mom has always tried to get me to drink lager, but I just prefer the taste of cider. Beer, ale, lager, whatever, it all just tastes bitter and thick and nasty to me for some reason. I mean, I can drink it in small quantities over a long period of time, but I can't drink it as naturally as I can cider. Is there any way aside from just ""powering through"" to getting used to drinking lager? I've probably tried at least 30-40 different lagers by now, and while I can appreciate the different flavours and subtleties, they all basically give me the same feeling of 'I don't want to continue drinking this...'? 
+
+With that in mind, while I've no problem with just drinking cider I'd like to open my palette so to speak to a wider variety of drinks? Do you have any advice? 
+
+Thanks in advance for any advice!",6,0.7844,Positive,-0.14375,Negative,0.32224695,Positive
+alcohol,lager,Highest quality lager.,,28,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Had a Beer or Lager 4 Years Ago and Need Help Remembering What It Was,"Hello everyone,
+
+So about 4 years ago I had a drink that I thought was really good, I was only 17 at the time and was very hesitant to drink, but now that I am turning 21, I would like to find it. 
+
+It was a fruit flavored drink, came in a brown bottle, and had a picture of the fruit on the cap that was its flavor. For example, the one I had was a pear, it came in a six pack, two of each flavor.
+
+Thanks",6,0.8201,Positive,0.27499999999999997,Positive,0.5508353,Positive
+alcohol,lager,"Cheers all, probably my favourite readily available lager. Got half way through before taking a picture.",,8,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Whitecap lager kind of Sunday.,,14,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,What’s the most overrated alcohol you’ve ever had,,94,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Such a heavy Lager. 8.1% hits HARD for a couple bucks,,2,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Fosters lager in a bottle,"Random question....
+
+Creating a beer bottle top table for my home bar I’m building and have got majority of commercial beer tops already. However I’m struggling to find fosters lager in a bottle. Anyone know whether they sell it in bottles, or is it only cans. Any info appreciated",1,0.7783,Positive,0.04,Neutral,0.40955915,Positive
+alcohol,lager,"Does anyone know any good beers, lagers, porters, stouts or other drinks that don't have a bitter after taste? i'm new to alcohol in general and i wanna explore.",,2,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,The best lager beer that you recently discovered?,,1,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Decent picture of my new favourite lager.,,5,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Two Cousins Drinking Luna Jo Cold Brew Coffee Lager,,4,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,One Minute Beer Review: Brooklyn Lager,,23,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,When you're not sure whether you need to drink water or vomit so you have some lager instead,,1,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Help Me Choose: What Should I Keep or Remove for My 21st Birthday Drinks?,"IHey everyone, I’m turning 21 soon, and I want to try different drinks to see what I like. Right now, my Walmart cart total is $96.71, but I want to cut it down a bit.
+
+I picked a mix of beers, hard seltzers, and liquor, but I don’t know which ones are worth keeping. If you were in my shoes, which would you keep, remove, or swap out?
+
+Beers:
+
+Guinness Draught Stout (6-pack bottles, 4.2% ABV) – $10.46
+
+White Claw Hard Seltzer Peach (6-pack cans, 5% ABV) – $10.94
+
+Blue Moon Belgian White (6-pack bottles, 5.4% ABV) – $11.73
+
+Stella Artois Lager (12-pack cans, 5% ABV) – $15.27
+
+Lagunitas Little Sumpin' Sumpin' Wheat Ale (6-pack cans, 7.5% ABV) – $10.98
+
+
+Liquor & Seltzers:
+
+High Noon Lime Vodka Hard Seltzer (4-pack, 12% ABV) – $9.98
+
+Malibu White Rum with Coconut Liqueur (750ml, 21% ABV) – $15.47
+
+Smirnoff No. 21 Vodka (750ml, 40% ABV) – $11.88
+
+
+Since this is my first time really trying drinks, I want a mix of good flavors, smooth drinks, and stuff that won’t completely wreck me. I like a mix of strong and light drinks, but I don’t want to overspend.
+
+If you had to cut 2-3 from the list, which would you remove? And are there any must-haves I should add?
+
+Thanks in advance!",15,0.9099,Positive,0.10277236652236653,Positive,0.5139312260101009,Positive
+alcohol,lager,Two Cousins Drinking Tropic of Thunder Lager,,3,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Two Cousins Drinking Harajuku Girl Rice Lager,,1,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,This is a great lager. Best served cold as hell frozen over on a hot ass day 🍻 cheers mates,,3,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,I hate beer but need to drink it,"My friend bought me a 24 pack of lagers for my birthday and a couple of them were drank. The rest are still sitting here so I want to find a way to eliminate the ‘beer’ flavor so I can still get the buzz. I was thinking of maybe adding salt or lemon but I don’t know what works.
+
+Does anyone know any ways to do this?",7,0.3376,Positive,0.0,Neutral,0.16998159999999998,Positive
+alcohol,lager,What alcohol does everyone generally like?,"I don't drink much, but I have friends that are twenty-one and I want to have fun with them. The only alcohol I've ever tried is fireball.",4,0.8765,Positive,0.16666666666666666,Positive,0.5236696666666666,Positive
+alcohol,lager,Saskatchewan Märzen Lager,,1,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Opinions on steel reserve?,"A lot of people consider it “bum beer” but I honestly quite like it, it’s pretty good once you get used to it imo ",30,0.9504,Positive,0.5166666666666666,Positive,0.7555393333333333,Positive
+alcohol,lager,It from 1950 will it get me drunk?,,228,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Anyone else enjoy walking railroads in the rain while enjoying drinks?,,69,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,18th birthday lager,"My friend is turning 18, and as part of his gift, my friends and I will be getting him some alcohol.
+
+He likes lager, any ideas of some good lager we can get him, available in the UK?",3,0.9313,Positive,0.55,Positive,0.74287195,Positive
+alcohol,lager,The Non-Sober Circus Presents: Dundee's Pale Bock Lager,,2,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,"Does anyone know of any beers, lagers, etc. with a distinctive vanilla flavor?",,2,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Steel reserve. Anyone drink this? ,,29,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,The Non-Sober Circus Presents: Leinenkugel's Red Lager,,0,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Apparently Fosters lager is actually good for something!,,0,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,What’s the most mid beer you’ve ever tasted,,59,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Found behind my old hot water heater,Anyone know what decade this is from?,29,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,"""heh you don't drink it for the taste, kid""","How often that line comes up in films or TV. You know the scene? A father or cool uncle sharing the first cold beer with the coming of age kid, or the old boss taking the rookie to a bar after a hard job? Why is it assumed no one actually likes the taste of beer, why is this such a big trope? I'm sorry but it's rediculous. 
+
+""No one drinks it for the taste"" well I do, everyone I know does, we all have our favourites and there so many to choose from all subtly different in their own unique ways and I love trying them all, when I go to the local after a days work I'm like a kid in a candy shop, a harp today? Or maybe a clonmel? Or will i go with the old faithful Guinness. All crisp, cool, refreshing and most importantly delicious. Every country, city, town, village with so many new and interesting tastes. Larger, ale, stout, IPA, micro or macro brewed, for premium or for pennies. We sit sip and argue to our hearts content about which is nicest with the young and the old, but sure we don't actually like any of it I guess.
+
+No one would drink it if it tastes yack, if I just wanted to get steamboated I'd order the cheapest alcopop or vodka fruit juice they have but no, beer in all its forms is a beautiful tasty beverage and I love it. Cheers. ",65,0.996,Positive,0.23128054740957965,Positive,0.6535268914956011,Positive
+alcohol,lager,Graph of alcohols and my future mini-bar,,1,0.0,Neutral,0.0,Neutral,0.0,Neutral
+alcohol,lager,Why in the hell do people like ipas?,"I got 4 different highly rated IPA's from my local store today to try instead of just having my usual lager, and I have to say Jesus Christ how do y'all drink that garbage 😭 I am drunk and yet it still tastes awful, I must have an iron-cast stomach to be handling these lol.",45,-0.6908,Negative,-0.11285714285714284,Negative,-0.4199108571428571,Negative
+alcohol,lager,best alcohol to drink on night out on diet,"so i’ve been smashing diet recently ; losses 4 stone . have not been drinking at all 
+
+going out with mates tomorrow during the day , gonna enjoy myself but wondering which drinks would i be best sticking to. 
+
+i enjoy lagers , too much spirits gives me memory loss 
+
+uk based ",1,0.8555,Positive,0.39999999999999997,Positive,0.62837775,Positive
