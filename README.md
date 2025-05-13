@@ -1,6 +1,7 @@
 # 🍻 IPA vs Lager Review Sentiment Analysis
 📎 Rachel Kim  
-📅 Date: 2025.03
+📅 Date: 2025.03  
+📚 Individual Project
 
 
 📝 This project performs sentiment analysis on beer reviews collected from Reddit using two sentiment analysis libraries: 
