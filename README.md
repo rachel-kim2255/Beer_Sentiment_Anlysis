@@ -11,6 +11,12 @@
 <br>
 <br>
 
+**Result Summary** : Both VADER and TextBlob sentiment analyses showed that **Neutral sentiment dominated in Reddit posts about IPA and Lager (over 50%).**
+Lager received slightly more positive sentiment than IPA, while IPA showed higher negative sentiment, likely due to its bold flavor profile.
+This suggests that Reddit users tend to share comparative or descriptive reviews rather than strong emotional reactions.
+<br>
+<br>
+
 ## 📂 Project Files
 
 - **beer_reviews_praw.csv**, **beer_reviews_json.csv**: The dataset containing beer reviews, including the title, text, score, and the corresponding keyword (IPA, Lager).
