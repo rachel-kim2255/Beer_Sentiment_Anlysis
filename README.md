@@ -13,10 +13,16 @@
 
 **Result Summary** : Both VADER and TextBlob sentiment analyses showed that **Neutral sentiment dominated in Reddit posts about IPA and Lager (over 50%).**
 Lager received slightly more positive sentiment than IPA, while IPA showed higher negative sentiment, likely due to its bold flavor profile.
-This suggests that Reddit users tend to share comparative or descriptive reviews rather than strong emotional reactions.
+This suggests that Reddit users tend to share comparative or descriptive reviews rather than strong emotional reactions.  
 <br>
-<br>
+**Suggestions** : 
+- The dominance of neutral sentiment indicates a relatively low level of emotional engagement with beer brands or preferences, suggesting an opportunity to enhance emotional storytelling in marketing.
+- IPA, which received more negative sentiment than Lager, may benefit from targeted marketing aimed at niche or enthusiast audiences who enjoy bold flavors.
+- In contrast, Lager showed slightly higher positive sentiment, indicating its potential appeal to a broader, general audience.
+- Since Reddit users tend to share descriptive rather than emotional opinions, brands that offer unique, emotionally resonant experiences and flavors may have greater influence and engagement within the community.
 
+<br>
+<br>
 ## 📂 Project Files
 
 - **beer_reviews_praw.csv**, **beer_reviews_json.csv**: The dataset containing beer reviews, including the title, text, score, and the corresponding keyword (IPA, Lager).
