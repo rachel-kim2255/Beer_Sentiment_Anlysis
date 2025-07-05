@@ -23,6 +23,7 @@ This suggests that Reddit users tend to share comparative or descriptive reviews
 
 <br>
 <br>
+
 ## 📂 Project Files
 
 - **beer_reviews_praw.csv**, **beer_reviews_json.csv**: The dataset containing beer reviews, including the title, text, score, and the corresponding keyword (IPA, Lager).
